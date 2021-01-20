@@ -1,0 +1,1454 @@
+name,type,for_profit,admissions_rate,average_net_price_public,average_net_price_private,median_10yr_earnings,median_debt,completion_rate,average_net_price
+Alabama A & M University,Public,No,0.9027,15184,NULL,31000,15000,0.2396,15184
+University of Alabama at Birmingham,Public,No,0.9181,17535,NULL,41200,15000,0.5292,17535
+Amridge University,Private,No,NULL,NULL,9649,39600,13207,0.1818,9649
+University of Alabama in Huntsville,Public,No,0.8123,19986,NULL,46700,14000,0.4862,19986
+Alabama State University,Public,No,0.9787,12874,NULL,27700,18950,0.2769,12874
+The University of Alabama,Public,No,0.533,21973,NULL,44500,17500,0.6787,21973
+Auburn University at Montgomery,Public,No,0.8254,15310,NULL,33300,12500,0.2765,15310
+Auburn University,Public,No,0.8393,23416,NULL,48800,16380,0.7658,23416
+South University-Montgomery,Private,Yes,NULL,NULL,20811,33400,12667,0.1915,20811
+Faulkner University,Private,No,0.5101,NULL,23562,35400,15500,0.2801,23562
+Herzing University-Birmingham,Private,No,0.757,NULL,24520,37800,12695,0.44,24520
+Jacksonville State University,Public,No,0.5402,18074,NULL,35800,15999,0.3721,18074
+University of West Alabama,Public,No,0.2821,13512,NULL,37400,14250,0.3324,13512
+University of Mobile,Private,No,0.4702,NULL,19125,35200,19500,0.4476,19125
+University of Montevallo,Public,No,0.6445,17020,NULL,34200,17213,0.503,17020
+University of North Alabama,Public,No,0.7022,12754,NULL,37800,14250,0.4454,12754
+Oakwood University,Private,No,0.4707,NULL,25539,29700,21500,0.4715,25539
+Samford University,Private,No,0.8319,NULL,29032,49900,15500,0.7581,29032
+University of South Alabama,Public,No,0.8208,15082,NULL,37800,16750,0.4007,15082
+Spring Hill College,Private,No,0.4568,NULL,21275,45100,19500,0.5254,21275
+Troy University,Public,No,0.8812,13349,NULL,37000,15500,0.39,13349
+Tuskegee University,Private,No,0.5032,NULL,32907,35500,22053,0.5193,32907
+University of Alaska Anchorage,Public,No,0.8283,13378,NULL,45400,11000,0.2431,13378
+University of Alaska Fairbanks,Public,No,0.767,9988,NULL,38700,11000,0.3018,9988
+University of Alaska Southeast,Public,No,0.7105,10643,NULL,36000,10720,0.2408,10643
+Alaska Pacific University,Private,No,0.86,NULL,18518,40200,15875,0.5294,18518
+Charter College,Private,Yes,NULL,NULL,30904,39800,13000,0.4749,30904
+Brookline College-Phoenix,Private,Yes,NULL,NULL,29368,21900,9500,0.2565,29368
+Arizona State University-Tempe,Public,No,0.8415,11163,NULL,47700,14271,0.6335,11163
+University of Arizona,Public,No,0.8358,14821,NULL,47300,14000,0.6361,14821
+Southwest University of Visual Arts-Tucson,Private,Yes,NULL,NULL,27145,30200,32875,0.5833,27145
+Embry-Riddle Aeronautical University-Prescott,Private,No,0.7652,NULL,32898,66200,13750,0.596,32898
+Grand Canyon University,Private,Yes,0.6692,NULL,20570,52700,12500,0.4075,20570
+Northern Arizona University,Public,No,0.8085,14789,NULL,40100,12577,0.5529,14789
+Prescott College,Private,No,0.9526,NULL,20968,33200,14024,0.4355,20968
+Western International University,Private,Yes,NULL,NULL,6312,35000,12782,0.0739,6312
+University of Arkansas at Little Rock,Public,No,0.7463,13729,NULL,34900,13700,0.3199,13729
+University of Arkansas,Public,No,0.6596,16069,NULL,44900,14596,0.6152,16069
+University of Arkansas at Pine Bluff,Public,No,0.4669,8692,NULL,27200,12624,0.2855,8692
+Arkansas State University-Main Campus,Public,No,0.6602,13828,NULL,32200,15000,0.475,13828
+Arkansas Tech University,Public,No,0.9475,11985,NULL,34100,11490,0.39,11985
+University of Arkansas at Monticello,Public,No,NULL,10889,NULL,31500,7749,0.2323,10889
+University of Central Arkansas,Public,No,0.8995,14375,NULL,38300,13000,0.4124,14375
+Harding University,Private,No,0.7212,NULL,18963,40900,20500,0.6663,18963
+Henderson State University,Public,No,0.7968,15357,NULL,35700,12350,0.3325,15357
+Hendrix College,Private,No,0.798,NULL,20695,39700,20043,0.7453,20695
+John Brown University,Private,No,0.7579,NULL,22583,45800,18025,0.7306,22583
+Southern Arkansas University Main Campus,Public,No,0.6945,12778,NULL,35700,11000,0.3604,12778
+University of Arkansas-Fort Smith,Public,No,NULL,10417,NULL,31000,8306,0.2982,10417
+Academy of Art University,Private,Yes,NULL,NULL,33012,38600,12877,0.3973,33012
+Art Center College of Design,Private,No,0.7036,NULL,43873,53600,28250,0.6759,43873
+Azusa Pacific University,Private,No,0.6012,NULL,27267,51100,18970,0.6681,27267
+Biola University,Private,No,0.7198,NULL,31492,44500,20000,0.7335,31492
+California Baptist University,Private,No,0.7708,NULL,31231,42600,21522,0.5866,31231
+California College of the Arts,Private,No,0.6369,NULL,30601,37200,25000,0.6121,30601
+California Institute of Technology,Private,No,0.0774,NULL,23345,85900,8013,0.893,23345
+California Lutheran University,Private,No,0.7275,NULL,25871,54200,18000,0.708,25871
+California Polytechnic State University-San Luis Obispo,Public,No,0.3461,19979,NULL,66900,17000,0.7914,19979
+California State University-Bakersfield,Public,No,0.6112,6785,NULL,47800,11655,0.4086,6785
+California State University-Stanislaus,Public,No,0.7706,6295,NULL,45400,11749,0.5277,6295
+California State University-San Bernardino,Public,No,0.5713,8519,NULL,44500,12815,0.5416,8519
+California State Polytechnic University-Pomona,Public,No,0.5507,13068,NULL,54000,15000,0.6593,13068
+California State University-Chico,Public,No,0.6778,14703,NULL,48100,14297,0.6553,14703
+California State University-Dominguez Hills,Public,No,0.5368,4655,NULL,44700,12500,0.4291,4655
+California State University-Fresno,Public,No,0.5941,5872,NULL,44700,12136,0.556,5872
+California State University-Fullerton,Public,No,0.4572,8737,NULL,47200,12500,0.6624,8737
+California State University-East Bay,Public,No,0.7405,11566,NULL,51700,12500,0.4237,11566
+California State University-Long Beach,Public,No,0.2799,9423,NULL,48100,13453,0.6874,9423
+California State University-Los Angeles,Public,No,0.4645,3792,NULL,46100,11795,0.4713,3792
+California State University-Northridge,Public,No,0.5765,5703,NULL,45400,11750,0.5127,5703
+California State University-Sacramento,Public,No,0.6776,9733,NULL,48900,13000,0.4807,9733
+University of California-Berkeley,Public,No,0.1711,15464,NULL,64700,12612,0.9107,15464
+University of California-Davis,Public,No,0.4336,15737,NULL,58200,11468,0.8519,15737
+University of California-Irvine,Public,No,0.3651,13376,NULL,58400,14500,0.8488,13376
+University of California-Los Angeles,Public,No,0.161,14309,NULL,60700,14385,0.9087,14309
+University of California-Riverside,Public,No,0.5723,12344,NULL,49700,15659,0.7505,12344
+University of California-San Diego,Public,No,0.3399,14630,NULL,59900,15000,0.8452,14630
+University of California-Santa Barbara,Public,No,0.3281,15764,NULL,55300,13010,0.8149,15764
+University of California-Santa Cruz,Public,No,0.5094,17877,NULL,46900,16200,0.7721,17877
+California Institute of the Arts,Private,No,0.2406,NULL,46101,37900,25000,0.6692,46101
+California State University Maritime Academy,Public,No,0.6635,16416,NULL,82900,19380,0.6408,16416
+Chapman University,Private,No,0.5724,NULL,39228,54500,19000,0.7905,39228
+Concordia University-Irvine,Private,No,0.5845,NULL,23867,46400,19096,0.6463,23867
+San Diego Christian College,Private,No,0.6235,NULL,27039,36700,15250,0.5679,27039
+Claremont McKenna College,Private,No,0.1036,NULL,26933,72900,13035,0.898,26933
+Coleman University,Private,No,NULL,NULL,29346,46600,13992,0.4808,29346
+Dominican University of California,Private,No,0.8843,NULL,33669,55600,27000,0.7204,33669
+Empire College,Private,Yes,NULL,NULL,22547,33300,11368,0.5806,22547
+Fresno Pacific University,Private,No,0.7239,NULL,16177,43900,18774,0.6538,16177
+Holy Names University,Private,No,0.5256,NULL,21566,50800,18750,0.4274,21566
+Humboldt State University,Public,No,0.8183,14490,NULL,36600,14000,0.4659,14490
+Humphreys University-Stockton and Modesto Campuses,Private,No,NULL,NULL,19348,28800,24288,0.4098,19348
+Life Pacific College,Private,No,0.9669,NULL,21556,32700,14000,0.4815,21556
+University of La Verne,Private,No,0.4754,NULL,25429,49200,21693,0.6627,25429
+Laguna College of Art and Design,Private,No,0.3346,NULL,36095,32900,19786,0.5161,36095
+La Sierra University,Private,No,0.4821,NULL,24370,49500,18745,0.4742,24370
+The Master's University and Seminary,Private,No,0.658,NULL,26294,41700,17083,0.5546,26294
+Argosy University-The Art Institute of California-San Francisco,Private,Yes,NULL,NULL,24834,41400,15585,0.3275,24834
+Loyola Marymount University,Private,No,0.5248,NULL,40676,61300,19000,0.7911,40676
+Marymount California University,Private,No,NULL,NULL,27487,35900,13899,0.3487,27487
+Mills College,Private,No,0.871,NULL,24558,39900,19000,0.6905,24558
+Mount Saint Mary's University,Private,No,0.8121,NULL,28274,53200,20417,0.658,28274
+National University,Private,No,NULL,NULL,25665,59400,18750,0.4219,25665
+Newschool of Architecture and Design,Private,Yes,0.9912,NULL,34755,49400,30750,0.3889,34755
+Notre Dame de Namur University,Private,No,0.9362,NULL,27906,56400,18750,0.4773,27906
+Otis College of Art and Design,Private,No,0.9125,NULL,41501,44900,26500,0.5514,41501
+Hope International University,Private,No,0.2837,NULL,25607,36000,14858,0.4821,25607
+Pacific Union College,Private,No,0.5021,NULL,20995,51700,21500,0.5192,20995
+University of the Pacific,Private,No,0.6487,NULL,29171,71700,18750,0.7045,29171
+Pepperdine University,Private,No,0.3985,NULL,33814,65500,21500,0.8488,33814
+Point Loma Nazarene University,Private,No,0.7629,NULL,31452,50900,19500,0.7444,31452
+University of Redlands,Private,No,0.7496,NULL,29520,55000,25000,0.7703,29520
+Argosy University-San Francisco Bay Area,Private,Yes,NULL,NULL,26351,41400,15585,0,26351
+San Diego State University,Public,No,0.3542,14030,NULL,51000,13715,0.7424,14030
+University of San Diego,Private,No,0.4979,NULL,34752,60000,20500,0.8175,34752
+San Francisco Art Institute,Private,No,0.7472,NULL,46570,31900,15813,0.4138,46570
+San Francisco Conservatory of Music,Private,No,0.438,NULL,37289,19700,18500,0.6327,37289
+San Francisco State University,Public,No,0.7046,13787,NULL,49200,13000,0.5359,13787
+University of San Francisco,Private,No,0.6563,NULL,32210,62300,20000,0.7723,32210
+William Jessup University,Private,No,0.6605,NULL,21817,37300,15750,0.6446,21817
+San Jose State University,Public,No,0.6688,14627,NULL,56100,12899,0.5675,14627
+Santa Clara University,Private,No,0.5356,NULL,33738,72600,18248,0.8977,33738
+Scripps College,Private,No,0.3337,NULL,30974,54100,12000,0.8833,30974
+Simpson University,Private,No,0.5561,NULL,27551,34500,16500,0.5674,27551
+Saint Mary's College of California,Private,No,0.8162,NULL,33570,56300,21500,0.764,33570
+Sonoma State University,Public,No,0.8203,17296,NULL,49200,13750,0.5846,17296
+Vanguard University of Southern California,Private,No,0.4668,NULL,21374,41800,18000,0.6096,21374
+Southern California Institute of Architecture,Private,No,NULL,NULL,55775,43100,29000,1,55775
+University of Southern California,Private,No,0.1595,NULL,30232,74000,18500,0.9171,30232
+Epic Bible College,Private,No,NULL,NULL,7601,25100,12667,0,7601
+Whittier College,Private,No,0.7409,NULL,25322,46800,18250,0.6918,25322
+Woodbury University,Private,No,0.6164,NULL,28973,48200,25000,0.521,28973
+Adams State University,Public,No,0.9888,13742,NULL,35200,12000,0.2852,13742
+University of Colorado Denver/Anschutz Medical Campus,Public,No,0.6522,14941,NULL,56400,14091,0.4485,14941
+University of Colorado Colorado Springs,Public,No,0.9281,15872,NULL,43900,12500,0.4329,15872
+University of Colorado Boulder,Public,No,0.7984,20706,NULL,50800,13889,0.6881,20706
+Colorado Christian University,Private,No,NULL,NULL,24341,39300,13000,0.5017,24341
+Colorado College,Private,No,0.1513,NULL,34032,45400,14227,0.8811,34032
+Colorado School of Mines,Public,No,0.5572,25710,NULL,84900,21500,0.7804,25710
+Colorado State University-Fort Collins,Public,No,0.8262,18700,NULL,47100,15000,0.686,18700
+Colorado Technical University-Colorado Springs,Private,Yes,NULL,NULL,16012,42200,10500,0.2553,16012
+University of Denver,Private,No,0.5805,NULL,32174,56500,18045,0.7512,32174
+Fort Lewis College,Public,No,0.8321,17705,NULL,35200,10000,0.4018,17705
+Colorado Mesa University,Public,No,0.8167,18200,NULL,36800,11768,0.3263,18200
+Metropolitan State University of Denver,Public,No,0.6427,13276,NULL,40200,12813,0.2829,13276
+Naropa University,Private,No,1,NULL,26574,20700,16125,0.3077,26574
+University of Northern Colorado,Public,No,0.8908,20367,NULL,42000,11932,0.4775,20367
+Regis University,Private,No,0.5992,NULL,23672,56400,19241,0.7121,23672
+Rocky Mountain College of Art and Design,Private,Yes,NULL,NULL,23198,33000,16750,0.4624,23198
+Colorado State University-Pueblo,Public,No,0.9534,15312,NULL,37500,12500,0.35,15312
+Western State Colorado University,Public,No,0.8598,17229,NULL,39000,12000,0.4097,17229
+Albertus Magnus College,Private,No,0.6388,NULL,24614,51200,23944,0.6133,24614
+University of Bridgeport,Private,No,0.5389,NULL,22642,43100,20500,0.4158,22642
+Central Connecticut State University,Public,No,0.6676,17889,NULL,47900,16500,0.5209,17889
+University of Connecticut,Public,No,0.4784,20681,NULL,58400,19000,0.8285,20681
+Eastern Connecticut State University,Public,No,0.6581,18719,NULL,46400,17750,0.5446,18719
+Fairfield University,Private,No,0.6056,NULL,36929,72100,23250,0.8095,36929
+University of Hartford,Private,No,0.8089,NULL,30440,47800,19495,0.596,30440
+University of New Haven,Private,No,0.8776,NULL,33380,52100,22092,0.6033,33380
+Post University,Private,Yes,0.635,NULL,19649,40900,9500,0.2457,19649
+Quinnipiac University,Private,No,0.7388,NULL,38695,63300,20875,0.7478,38695
+Sacred Heart University,Private,No,0.6028,NULL,39973,56000,20265,0.7245,39973
+University of Saint Joseph,Private,No,0.9029,NULL,25589,52800,24026,0.6815,25589
+Southern Connecticut State University,Public,No,0.6492,17327,NULL,45300,16000,0.4811,17327
+Trinity College,Private,No,0.3387,NULL,31808,66100,19432,0.8102,31808
+Wesleyan University,Private,No,0.1629,NULL,29956,54700,15500,0.9021,29956
+Western Connecticut State University,Public,No,0.7083,18012,NULL,45200,17500,0.4389,18012
+Yale University,Private,No,0.0693,NULL,18627,83200,12000,0.974,18627
+Delaware State University,Public,No,0.4518,13014,NULL,35800,19000,0.3672,13014
+University of Delaware,Public,No,0.6289,16892,NULL,57000,21166,0.8235,16892
+Goldey-Beacom College,Private,No,0.5177,NULL,14222,44500,13994,0.3704,14222
+Wesley College,Private,No,0.6151,NULL,23762,42900,16000,0.1724,23762
+Wilmington University,Private,No,NULL,NULL,14600,42500,15334,0.2592,14600
+American University,Private,No,0.294,NULL,36567,61000,20500,0.7922,36567
+Catholic University of America,Private,No,0.8258,NULL,32731,56800,23750,0.7358,32731
+University of the District of Columbia,Public,No,NULL,17548,NULL,35200,12500,0.159,17548
+Gallaudet University,Private,No,0.5901,NULL,14205,31000,11105,0.525,14205
+George Washington University,Private,No,0.4098,NULL,31956,69600,19500,0.8063,31956
+Georgetown University,Private,No,0.1568,NULL,30107,93500,14500,0.9461,30107
+Howard University,Private,No,0.4142,NULL,23424,49200,22500,0.6336,23424
+Strayer University-District of Columbia,Private,Yes,NULL,NULL,22511,45900,12667,0,22511
+Trinity Washington University,Private,No,0.9228,NULL,16777,38800,18709,0.3598,16777
+The Baptist College of Florida,Private,No,0.6195,NULL,10904,31800,14000,0.4667,10904
+Barry University,Private,No,0.8507,NULL,20254,45800,19500,0.3489,20254
+Bethune-Cookman University,Private,No,NULL,NULL,17824,29200,16750,0.3657,17824
+Lynn University,Private,No,0.8463,NULL,35077,39300,11250,0.5123,35077
+Carlos Albizu University-Miami,Private,No,1,NULL,33833,30200,5500,0.7,33833
+University of Central Florida,Public,No,0.499,15286,NULL,45400,14875,0.7001,15286
+South University-West Palm Beach,Private,Yes,NULL,NULL,22055,33400,12667,0.2727,22055
+Embry-Riddle Aeronautical University-Daytona Beach,Private,No,0.7491,NULL,33120,66200,13750,0.591,33120
+Florida Agricultural and Mechanical University,Public,No,0.4563,14279,NULL,37600,19500,0.4761,14279
+Florida Atlantic University,Public,No,0.6001,10466,NULL,43200,12500,0.512,10466
+AdventHealth University,Private,No,0.9685,NULL,18899,56000,16646,0.1923,18899
+Florida Institute of Technology,Private,No,0.6346,NULL,31592,56600,12625,0.6033,31592
+Florida International University,Public,No,0.5407,12503,NULL,46300,14750,0.5662,12503
+Florida Memorial University,Private,No,0.2733,NULL,17311,27600,14250,0.376,17311
+Florida Southern College,Private,No,0.5146,NULL,24679,41400,18750,0.6322,24679
+Florida State University,Public,No,0.4919,14582,NULL,46400,17500,0.8017,14582
+University of Florida,Public,No,0.4201,12343,NULL,56000,14954,0.8803,12343
+Full Sail University,Private,Yes,NULL,NULL,26077,39300,14750,0.2654,26077
+AI Miami International University of Art and Design,Private,Yes,NULL,NULL,20363,31600,13000,0.293,20363
+Jacksonville University,Private,No,0.867,NULL,26767,50500,15230,0.4308,26767
+Keiser University-Ft Lauderdale,Private,No,NULL,NULL,29344,31100,13353,0.5882,29344
+Luther Rice College & Seminary,Private,No,0.5484,NULL,17312,44800,18789,0.1111,17312
+University of Miami,Private,No,0.357,NULL,29184,60100,15577,0.8372,29184
+University of North Florida,Public,No,0.5871,13795,NULL,43200,12324,0.5728,13795
+Nova Southeastern University,Private,No,0.5817,NULL,26606,45300,18000,0.5237,26606
+Palm Beach Atlantic University,Private,No,0.9739,NULL,23891,40600,15000,0.5305,23891
+Rollins College,Private,No,0.6389,NULL,30202,45700,21643,0.7532,30202
+Saint Leo University,Private,No,0.5849,NULL,18456,43800,15750,0.4798,18456
+University of South Florida-Main Campus,Public,No,0.4536,11700,NULL,43500,15500,0.7092,11700
+St. Thomas University,Private,No,0.4871,NULL,22866,49400,13005,0.4423,22866
+Stetson University,Private,No,0.6783,NULL,26883,43200,19000,0.6232,26883
+Southeastern University,Private,No,0.535,NULL,23066,34800,11250,0.3996,23066
+Altierus Career College-Tampa,Private,No,NULL,NULL,19714,26100,12434,0.5744,19714
+The University of Tampa,Private,No,0.5326,NULL,29735,48600,16696,0.5969,29735
+Trinity Baptist College,Private,No,0.3447,NULL,15736,33600,9500,0.3542,15736
+Warner University,Private,No,0.4148,NULL,17413,38600,15864,0.403,17413
+Webber International University,Private,No,0.4923,NULL,23921,37200,9500,0.3191,23921
+The University of West Florida,Public,No,0.4958,10729,NULL,38900,13061,0.4405,10729
+Albany State University,Public,No,NULL,11590,NULL,32200,12000,0.2233,11590
+Clark Atlanta University,Private,No,0.5793,NULL,33496,35500,15665,0.3976,33496
+Berry College,Private,No,0.616,NULL,24165,40000,19000,0.6409,24165
+Beulah Heights University,Private,No,NULL,NULL,19802,29100,19000,0.0308,19802
+Brenau University,Private,No,0.6613,NULL,18531,42000,17380,0.4944,18531
+Clayton  State University,Public,No,0.4179,11071,NULL,38800,17778,0.3018,11071
+Columbus State University,Public,No,0.534,12250,NULL,35900,16919,0.3278,12250
+Covenant College,Private,No,0.9523,NULL,22202,41200,18822,0.6947,22202
+South University-Savannah,Private,Yes,NULL,NULL,23886,33400,12667,0.1029,23886
+Emory University,Private,No,0.2204,NULL,26760,66000,16250,0.9091,26760
+Fort Valley State University,Public,No,0.4366,13192,NULL,30900,24250,0.2593,13192
+Georgia Institute of Technology-Main Campus,Public,No,0.234,13291,NULL,79100,21500,0.8526,13291
+Georgia Southwestern State University,Public,No,0.6747,12746,NULL,36400,12000,0.255,12746
+Georgia College & State University,Public,No,0.7899,19686,NULL,40500,16283,0.6603,19686
+Georgia Southern University,Public,No,0.6829,16548,NULL,41900,15750,0.4994,16548
+Georgia State University,Public,No,0.6985,15506,NULL,43300,11750,0.5347,15506
+University of Georgia,Public,No,0.5401,14625,NULL,50500,16750,0.8527,14625
+LaGrange College,Private,No,0.5689,NULL,20432,39600,13441,0.4097,20432
+Life University,Private,No,0.689,NULL,27652,35600,9854,0.1833,27652
+Herzing University-Atlanta,Private,No,0.8642,NULL,23546,37800,12695,0.1724,23546
+Mercer University,Private,No,0.7326,NULL,20812,48200,20000,0.6383,20812
+Piedmont College,Private,No,0.5952,NULL,17869,40600,16218,0.496,17869
+Reinhardt University,Private,No,0.8863,NULL,19113,36600,11000,0.3686,19113
+Savannah College of Art and Design,Private,No,0.9287,NULL,40870,36400,17166,0.6482,40870
+Savannah State University,Public,No,0.5575,10633,NULL,31300,15000,0.2776,10633
+Shorter University,Private,No,0.5337,NULL,19439,43200,16168,0.3955,19439
+Thomas University,Private,No,0.2256,NULL,21709,34300,14562,0.3737,21709
+Truett McConnell University,Private,No,0.9462,NULL,17424,32600,12000,0.3837,17424
+Valdosta State University,Public,No,0.7417,14656,NULL,38700,15750,0.3693,14656
+Wesleyan College,Private,No,0.466,NULL,14974,29900,18187,0.5588,14974
+University of West Georgia,Public,No,0.5862,15056,NULL,38200,13802,0.4049,15056
+Chaminade University of Honolulu,Private,No,0.9223,NULL,20666,38400,15000,0.5428,20666
+University of Hawaii at Hilo,Public,No,0.7788,13709,NULL,37900,13783,0.4101,13709
+University of Hawaii at Manoa,Public,No,0.8315,15307,NULL,45800,14000,0.5995,15307
+Hawaii Pacific University,Private,No,0.7468,NULL,28836,49900,12750,0.4447,28836
+Boise State University,Public,No,0.8399,13796,NULL,37100,15250,0.4394,13796
+Idaho State University,Public,No,NULL,16689,NULL,35700,13750,0.3032,16689
+University of Idaho,Public,No,0.7309,14457,NULL,41900,17000,0.5486,14457
+The College of Idaho,Private,No,0.7586,NULL,22444,40000,19500,0.6667,22444
+Northwest Nazarene University,Private,No,0.7342,NULL,19046,39600,18500,0.5586,19046
+School of the Art Institute of Chicago,Private,No,0.6982,NULL,41935,33500,19500,0.656,41935
+Aurora University,Private,No,0.8732,NULL,17220,42700,16760,0.5323,17220
+Bradley University,Private,No,0.7137,NULL,24814,53600,22117,0.7268,24814
+Chicago State University,Public,No,0.7787,12592,NULL,33800,25000,0.1302,12592
+University of Chicago,Private,No,0.0873,NULL,25455,68100,16000,0.9284,25455
+Columbia College Chicago,Private,No,0.9161,NULL,31597,34400,19500,0.4397,31597
+Concordia University-Chicago,Private,No,0.7472,NULL,17085,39700,15750,0.4781,17085
+DePaul University,Private,No,0.7174,NULL,30559,53300,20000,0.7082,30559
+Eastern Illinois University,Public,No,0.5151,14841,NULL,42200,18500,0.5632,14841
+Elmhurst College,Private,No,0.7053,NULL,22183,48300,16227,0.6436,22183
+Greenville University,Private,No,0.662,NULL,20460,36800,15750,0.4239,20460
+Hebrew Theological College,Private,No,0.95,NULL,25095,21100,7500,0.0714,25095
+University of Illinois at Chicago,Public,No,0.7708,13866,NULL,54300,14000,0.5657,13866
+Benedictine University,Private,No,0.6217,NULL,23827,49000,17125,0.4981,23827
+University of Illinois at Urbana-Champaign,Public,No,0.6153,18377,NULL,61500,15500,0.8503,18377
+Illinois College,Private,No,0.5487,NULL,16501,42800,21250,0.6007,16501
+Illinois Institute of Technology,Private,No,0.5403,NULL,22098,69100,21531,0.7223,22098
+Argosy University-Chicago,Private,Yes,NULL,NULL,21089,41400,15585,0.0345,21089
+Illinois State University,Public,No,0.8913,21345,NULL,47100,15500,0.6881,21345
+Judson University,Private,No,0.712,NULL,20765,42800,19500,0.5448,20765
+Lake Forest College,Private,No,0.5299,NULL,24628,50900,25745,0.7241,24628
+Lewis University,Private,No,0.5383,NULL,19793,48800,19500,0.6703,19793
+Lincoln Christian University,Private,No,0.6213,NULL,17940,30900,18500,0.6667,17940
+Loyola University Chicago,Private,No,0.7059,NULL,33036,54100,20000,0.7715,33036
+McKendree University,Private,No,0.617,NULL,20479,45800,17500,0.5123,20479
+Millikin University,Private,No,0.6459,NULL,20435,42900,20000,0.6056,20435
+National Louis University,Private,No,0.8559,NULL,15579,44600,14000,0.5,15579
+North Central College,Private,No,0.544,NULL,24231,47800,19500,0.6883,24231
+North Park University,Private,No,0.5373,NULL,19676,43700,19500,0.5863,19676
+Northern Illinois University,Public,No,0.5332,19823,NULL,45500,18250,0.4497,19823
+Northwestern University,Private,No,0.0924,NULL,24047,69000,14385,0.9376,24047
+Northeastern Illinois University,Public,No,0.6939,17312,NULL,37900,10500,0.2302,17312
+Olivet Nazarene University,Private,No,0.6617,NULL,20490,40400,19000,0.6629,20490
+Quincy University,Private,No,0.6732,NULL,17187,39500,12000,0.4565,17187
+Robert Morris University Illinois,Private,No,0.6688,NULL,21333,32300,15000,0.3913,21333
+Rockford University,Private,No,0.4656,NULL,20601,45200,18750,0.4146,20601
+Roosevelt University,Private,No,0.6951,NULL,24894,43600,18000,0.3986,24894
+Dominican University,Private,No,0.6498,NULL,17786,47100,20834,0.6208,17786
+University of St Francis,Private,No,0.5167,NULL,18571,53100,20280,0.6278,18571
+Saint Xavier University,Private,No,0.746,NULL,14461,48200,18000,0.5241,14461
+University of Illinois at Springfield,Public,No,0.5241,12197,NULL,44600,14000,0.5021,12197
+Southern Illinois University-Carbondale,Public,No,0.7601,17175,NULL,42900,16000,0.4012,17175
+Southern Illinois University-Edwardsville,Public,No,0.8951,15574,NULL,43000,14286,0.4853,15574
+Trinity Christian College,Private,No,0.829,NULL,21782,42200,21500,0.688,21782
+Trinity International University-Illinois,Private,No,0.75,NULL,19887,41100,16556,0.5159,19887
+Western Illinois University,Public,No,0.5997,15844,NULL,43200,18661,0.5045,15844
+Wheaton College,Private,No,0.85,NULL,28005,48400,20100,0.8893,28005
+Anderson University,Private,No,0.6525,NULL,23799,37200,19500,0.5746,23799
+Ball State University,Public,No,0.6208,15187,NULL,41100,17500,0.6157,15187
+Bethel College-Indiana,Private,No,0.8977,NULL,18876,37800,19500,0.6421,18876
+Butler University,Private,No,0.6513,NULL,36249,56600,23250,0.787,36249
+Calumet College of Saint Joseph,Private,No,NULL,NULL,11649,42000,14800,0.2358,11649
+Earlham College,Private,No,0.5184,NULL,19454,35000,19000,0.6824,19454
+University of Evansville,Private,No,0.6996,NULL,20517,41800,20000,0.717,20517
+Goshen College,Private,No,0.6388,NULL,19251,37700,14500,0.7235,19251
+Grace College and Theological Seminary,Private,No,0.8209,NULL,21452,34900,16772,0.6245,21452
+Huntington University,Private,No,0.8053,NULL,21892,36200,23000,0.5992,21892
+Purdue University Fort Wayne,Public,No,0.9441,12464,NULL,36500,12019,0.3164,12464
+Indiana University-Purdue University-Indianapolis,Public,No,0.7965,12021,NULL,42500,14287,0.4499,12021
+University of Indianapolis,Private,No,0.8218,NULL,21145,40600,18500,0.5621,21145
+Indiana Institute of Technology,Private,No,0.7613,NULL,24829,42700,9500,0.3385,24829
+University of Southern Indiana,Public,No,0.936,13319,NULL,37000,13250,0.4067,13319
+Indiana State University,Public,No,0.8451,13012,NULL,39000,12500,0.3872,13012
+Indiana University-Kokomo,Public,No,0.7028,9073,NULL,36200,11000,0.3892,9073
+Indiana University-South Bend,Public,No,0.7771,9169,NULL,34900,11532,0.2924,9169
+Indiana University-Bloomington,Public,No,0.7601,14351,NULL,47700,17000,0.7733,14351
+Indiana University-Northwest,Public,No,0.7444,8358,NULL,36300,12500,0.2798,8358
+Indiana University-Southeast,Public,No,0.8275,10268,NULL,37900,11584,0.3191,10268
+Indiana University-East,Public,No,0.6966,8895,NULL,31500,12970,0.3571,8895
+Manchester University,Private,No,0.6058,NULL,19831,40700,16750,0.5496,19831
+Marian University,Private,No,0.5872,NULL,20366,43300,19500,0.5217,20366
+Indiana Wesleyan University-Marion,Private,No,0.7202,NULL,19333,49900,16667,0.6282,19333
+Martin University,Private,No,NULL,NULL,16433,24700,17730,0.0625,16433
+University of Notre Dame,Private,No,0.1892,NULL,28768,78400,19000,0.9524,28768
+Oakland City University,Private,No,0.7133,NULL,16504,33600,12500,0.5326,16504
+Rose-Hulman Institute of Technology,Private,No,0.6094,NULL,36906,80900,24834,0.8075,36906
+University of Saint Francis-Fort Wayne,Private,No,0.9872,NULL,18916,40400,18180,0.5753,18916
+Saint Mary-of-the-Woods College,Private,No,0.7576,NULL,16787,32300,12260,0.5714,16787
+Saint Mary's College,Private,No,0.7825,NULL,23244,46200,25000,0.7908,23244
+Taylor University,Private,No,0.8679,NULL,24525,38000,15750,0.7852,24525
+Trine University,Private,No,0.701,NULL,23499,43300,17750,0.545,23499
+Valparaiso University,Private,No,0.8428,NULL,21946,48500,21500,0.7221,21946
+Briar Cliff University,Private,No,NULL,NULL,22566,41900,13750,0.4237,22566
+Buena Vista University,Private,No,0.6385,NULL,19175,40000,17146,0.601,19175
+Clarke University,Private,No,0.6319,NULL,24334,41300,21500,0.6319,24334
+Dordt College,Private,No,0.7207,NULL,23792,41700,16432,0.6452,23792
+Drake University,Private,No,0.688,NULL,27578,58300,19197,0.7906,27578
+University of Dubuque,Private,No,0.7416,NULL,23231,39200,15673,0.4277,23231
+Faith Baptist Bible College and Theological Seminary,Private,No,0.6,NULL,14874,35400,8009,0.5366,14874
+Graceland University-Lamoni,Private,No,0.5614,NULL,18181,36200,15000,0.4961,18181
+Grand View University,Private,No,0.9268,NULL,18332,43200,17750,0.5014,18332
+Purdue University Global-Cedar Rapids,Private,Yes,NULL,NULL,17081,33900,12500,0.3333,17081
+Iowa State University,Public,No,0.8934,14331,NULL,50700,18250,0.7343,14331
+University of Iowa,Public,No,0.8604,15103,NULL,51900,16173,0.7354,15103
+Loras College,Private,No,0.9509,NULL,18408,44600,20500,0.6816,18408
+Maharishi University of Management,Private,No,0.8889,NULL,17942,21400,18750,0.6364,17942
+Morningside College,Private,No,0.5518,NULL,22267,43700,17125,0.557,22267
+Mount Mercy University,Private,No,0.5724,NULL,20477,45300,16793,0.58,20477
+Ashford University,Private,Yes,NULL,NULL,18749,41200,8344,0.0765,18749
+University of Northern Iowa,Public,No,0.8083,16496,NULL,44600,15541,0.6753,16496
+Northwestern College,Private,No,0.681,NULL,23064,38400,17375,0.679,23064
+Palmer College of Chiropractic,Private,No,NULL,NULL,13315,41200,9701,1,13315
+Saint Ambrose University,Private,No,0.6081,NULL,24503,47300,20500,0.6325,24503
+Simpson College,Private,No,0.8386,NULL,22077,47500,21500,0.6828,22077
+Upper Iowa University,Private,No,0.5558,NULL,24710,42900,17504,0.4143,24710
+Waldorf University,Private,Yes,0.7185,NULL,19135,37800,12000,0.2909,19135
+William Penn University,Private,No,0.5379,NULL,20172,42100,14000,0.3504,20172
+Baker University,Private,No,0.8571,NULL,21289,51300,19500,0.5678,21289
+Benedictine College,Private,No,0.9747,NULL,24312,40100,19000,0.6271,24312
+Emporia State University,Public,No,0.8275,14584,NULL,37100,14000,0.4452,14584
+Fort Hays State University,Public,No,0.8862,12376,NULL,38200,13519,0.438,12376
+Barclay College,Private,No,0.6697,NULL,21292,33900,15625,0.5263,21292
+Friends University,Private,No,0.4801,NULL,23506,41800,18750,0.3362,23506
+University of Kansas,Public,No,0.9338,18814,NULL,48800,15000,0.6308,18814
+Newman University,Private,No,0.6384,NULL,13800,44000,15250,0.5235,13800
+Kansas State University,Public,No,0.9412,17926,NULL,45600,17500,0.6266,17926
+Kansas Wesleyan University,Private,No,0.5365,NULL,25808,40300,12878,0.3212,25808
+MidAmerica Nazarene University,Private,No,0.6562,NULL,20227,42900,13396,0.5146,20227
+Ottawa University-Ottawa,Private,No,0.8045,NULL,23479,41500,12500,0.4578,23479
+Pittsburg State University,Public,No,0.8721,14214,NULL,39400,14000,0.4721,14214
+University of Saint Mary,Private,No,0.4915,NULL,16702,38500,15500,0.4369,16702
+Southwestern College,Private,No,0.9688,NULL,22291,46400,12500,0.4063,22291
+Tabor College,Private,No,0.5318,NULL,22991,40800,16462,0.3841,22991
+Washburn University,Public,No,NULL,13341,NULL,40300,12500,0.3887,13341
+Wichita State University,Public,No,0.938,14113,NULL,40400,15000,0.4757,14113
+Asbury University,Private,No,0.7032,NULL,28095,34900,19153,0.6883,28095
+Bellarmine University,Private,No,0.8925,NULL,24433,45700,19000,0.6454,24433
+Brescia University,Private,No,0.424,NULL,13312,40100,19562,0.3867,13312
+Campbellsville University,Private,No,0.6859,NULL,19568,33700,10500,0.3366,19568
+University of the Cumberlands,Private,No,0.7436,NULL,19509,35100,9734,0.4085,19509
+Eastern Kentucky University,Public,No,0.8737,11892,NULL,36100,15000,0.4383,11892
+Georgetown College,Private,No,0.6733,NULL,20769,43000,14613,0.5339,20769
+Kentucky State University,Public,No,0.4528,8772,NULL,28700,17479,0.2042,8772
+University of Kentucky,Public,No,0.9577,18903,NULL,45100,16250,0.6505,18903
+Kentucky Christian University,Private,No,0.4021,NULL,18051,34600,10625,0.3254,18051
+Lindsey Wilson College,Private,No,NULL,NULL,16083,28800,13651,0.3519,16083
+University of Louisville,Public,No,0.753,16721,NULL,41800,13061,0.5441,16721
+Midway University,Private,No,0.567,NULL,24366,34500,14580,0.5243,24366
+Morehead State University,Public,No,0.7962,12179,NULL,33100,16948,0.4175,12179
+Murray State University,Public,No,0.8667,11497,NULL,37100,16238,0.491,11497
+Northern Kentucky University,Public,No,0.9038,9131,NULL,37500,14000,0.3967,9131
+University of Pikeville,Private,No,1,NULL,18374,31100,11629,0.2994,18374
+Spalding University,Private,No,0.5899,NULL,21872,45100,17750,0.4468,21872
+Sullivan University,Private,Yes,NULL,NULL,28718,31400,10994,0.3172,28718
+Thomas More College,Private,No,0.9123,NULL,18706,49400,13175,0.451,18706
+Union College,Private,No,0.6347,NULL,23504,32100,12383,0.3368,23504
+Western Kentucky University,Public,No,0.9545,11850,NULL,34700,14250,0.43120000000000003,11850
+Centenary College of Louisiana,Private,No,0.6179,NULL,24704,44900,17250,0.4833,24704
+Grambling State University,Public,No,0.4277,18846,NULL,28100,25250,0.3513,18846
+Louisiana State University and Agricultural & Mechanical College,Public,No,0.7392,18181,NULL,50100,13000,0.6665,18181
+Louisiana State University-Shreveport,Public,No,0.8384,9571,NULL,35700,12706,0.3048,9571
+Louisiana College,Private,No,0.7192,NULL,15874,42800,10250,0.419,15874
+Louisiana Tech University,Public,No,0.6484,10774,NULL,41500,13000,0.5339,10774
+Loyola University New Orleans,Private,No,0.6911,NULL,22766,47100,19500,0.5623,22766
+McNeese State University,Public,No,0.6224,10977,NULL,38200,12153,0.4241,10977
+University of New Orleans,Public,No,0.5661,11135,NULL,37800,10250,0.3228,11135
+Nicholls State University,Public,No,0.9374,12448,NULL,37500,11750,0.4679,12448
+University of Louisiana at Monroe,Public,No,0.7546,11316,NULL,37500,12870,0.409,11316
+Northwestern State University of Louisiana,Public,No,0.8029,11295,NULL,34300,13000,0.3944,11295
+University of Holy Cross,Private,No,0.4615,NULL,13645,39500,15000,0.5208,13645
+Franciscan Missionaries of Our Lady University,Private,No,0.4844,NULL,16979,47200,15070,0.4045,16979
+Southeastern Louisiana University,Public,No,0.8834,12739,NULL,37200,11000,0.4135,12739
+Southern University and A & M College,Public,No,0.4547,14259,NULL,34700,18750,0.29,14259
+Southern University at New Orleans,Public,No,0.2467,7335,NULL,28600,20210,0.2039,7335
+University of Louisiana at Lafayette,Public,No,0.5087,12768,NULL,39900,12444,0.4412,12768
+Tulane University of Louisiana,Private,No,0.215,NULL,34238,61700,19000,0.8336,34238
+Xavier University of Louisiana,Private,No,0.6408,NULL,16075,49800,12750,0.4401,16075
+College of the Atlantic,Private,No,0.6793,NULL,20234,24600,16834,0.6579,20234
+University of Maine at Farmington,Public,No,0.8257,13827,NULL,36000,16000,0.5073,13827
+University of Maine,Public,No,0.9226,17074,NULL,42500,18500,0.5758,17074
+Maine Maritime Academy,Public,No,0.7961,23460,NULL,95600,27000,0.6894,23460
+University of New England,Private,No,0.8074,NULL,33183,46300,19822,0.59,33183
+Maine College of Art,Private,No,0.6774,NULL,29823,27700,17250,0.5294,29823
+Saint Joseph's College of Maine,Private,No,0.8011,NULL,25367,43400,16745,0.5922,25367
+University of Southern Maine,Public,No,0.8348,11582,NULL,38700,14084,0.3293,11582
+Thomas College,Private,No,NULL,NULL,21647,38100,17275,0.4791,21647
+University of Baltimore,Public,No,0.8099,21329,NULL,58000,16948,0.329,21329
+Bowie State University,Public,No,0.36,14974,NULL,45800,12500,0.3962,14974
+Capitol Technology University,Private,No,0.7473,NULL,23118,63900,14000,0.5231,23118
+Washington Adventist University,Private,No,0.6139,NULL,18864,42600,25000,0.372,18864
+Coppin State University,Public,No,0.3651,10675,NULL,38100,17000,0.2448,10675
+Frostburg State University,Public,No,0.7229,14699,NULL,44600,15000,0.4945,14699
+Goucher College,Private,No,0.7884,NULL,25306,48900,17996,0.6621,25306
+Hood College,Private,No,0.8113,NULL,23416,45300,19613,0.6104,23416
+Johns Hopkins University,Private,No,0.1254,NULL,33586,73200,13500,0.9268,33586
+Loyola University Maryland,Private,No,0.7528,NULL,35867,68100,26945,0.8109,35867
+University of Maryland-University College,Public,No,NULL,14861,NULL,51200,11547,0.0881,14861
+University of Maryland-Baltimore County,Public,No,0.6021,20539,NULL,55000,16500,0.6342,20539
+University of Maryland-College Park,Public,No,0.445,18517,NULL,62900,15750,0.8529,18517
+Maryland Institute College of Art,Private,No,0.6161,NULL,38763,37300,21500,0.7181,38763
+University of Maryland Eastern Shore,Public,No,0.3901,15860,NULL,36600,17500,0.3824,15860
+Morgan State University,Public,No,0.6372,16658,NULL,40500,21500,0.3752,16658
+Mount St. Mary's University,Private,No,0.6423,NULL,28495,52600,19500,0.6329,28495
+Notre Dame of Maryland University,Private,No,0.714,NULL,15963,51800,19481,0.4307,15963
+Salisbury University,Public,No,0.6502,18792,NULL,50500,15900,0.7095,18792
+St. Mary's College of Maryland,Public,No,0.8242,21025,NULL,52200,17750,0.7825,21025
+St. John's College,Private,No,0.5445,NULL,26808,36900,22625,0.6667,26808
+Towson University,Public,No,0.773,17893,NULL,50800,15750,0.7172,17893
+Stevenson University,Private,No,0.6087,NULL,27542,49600,22000,0.5404,27542
+Washington College,Private,No,0.4762,NULL,28943,51400,20500,0.7644,28943
+McDaniel College,Private,No,0.85,NULL,20333,49700,19500,0.6817,20333
+American International College,Private,No,0.7183,NULL,22429,46000,20050,0.4141,22429
+Anna Maria College,Private,No,0.7918,NULL,24026,44800,15442,0.4126,24026
+Assumption College,Private,No,0.7899,NULL,28285,55200,25000,0.71,28285
+Babson College,Private,No,0.2418,NULL,35540,96100,21875,0.9215,35540
+Bay Path University,Private,No,0.6286,NULL,22455,42700,17610,0.5676,22455
+Becker College,Private,No,0.6941,NULL,32721,43800,19750,0.3846,32721
+Bentley University,Private,No,0.4415,NULL,35671,86900,23250,0.9128,35671
+Berklee College of Music,Private,No,0.5252,NULL,47270,30300,15000,0.6403,47270
+Boston Architectural College,Private,No,NULL,NULL,28216,46100,33166,0.1034,28216
+Boston College,Private,No,0.3241,NULL,34550,72500,16000,0.9211,34550
+Boston University,Private,No,0.2511,NULL,37065,65300,22500,0.8713,37065
+Brandeis University,Private,No,0.3422,NULL,31308,57900,24708,0.9005,31308
+Bridgewater State University,Public,No,0.8036,18685,NULL,45300,18500,0.5941,18685
+Cambridge College,Private,No,NULL,NULL,24521,38100,15302,0.1111,24521
+Clark University,Private,No,0.5627,NULL,27004,49100,22750,0.8284,27004
+Curry College,Private,No,0.9005,NULL,29785,45900,18871,0.5248,29785
+Eastern Nazarene College,Private,No,0.6776,NULL,16313,42300,19000,0.4938,16313
+Emerson College,Private,No,0.4606,NULL,43965,46600,20500,0.8079,43965
+Emmanuel College,Private,No,0.7299,NULL,30698,49700,23125,0.6582,30698
+Endicott College,Private,No,0.814,NULL,34571,51100,23019,0.7512,34571
+Fisher College,Private,No,0.6583,NULL,23772,34900,12000,0.3176,23772
+Fitchburg State University,Public,No,0.8004,15672,NULL,45700,17505,0.5965,15672
+Framingham State University,Public,No,0.6811,20355,NULL,45800,18163,0.5398,20355
+Gordon College,Private,No,0.8889,NULL,28240,41700,21500,0.7015,28240
+Harvard University,Private,No,0.0516,NULL,14327,89700,12500,0.9644,14327
+Lasell College,Private,No,0.8072,NULL,25743,43000,23250,0.5413,25743
+Lesley University,Private,No,0.7261,NULL,31401,38700,15750,0.5966,31401
+University of Massachusetts-Lowell,Public,No,0.6883,19322,NULL,53300,18926,0.6008,19322
+University of Massachusetts-Amherst,Public,No,0.5758,20926,NULL,51400,20600,0.7718,20926
+University of Massachusetts-Boston,Public,No,0.7515,12292,NULL,48200,16250,0.4803,12292
+MCPHS University,Private,No,0.8386,NULL,37779,116000,24500,0.7384,37779
+Massachusetts College of Art and Design,Public,No,0.7066,21612,NULL,36200,20000,0.7323,21612
+Massachusetts Institute of Technology,Private,No,0.0717,NULL,20771,104700,11625,0.9383,20771
+Massachusetts Maritime Academy,Public,No,0.8317,19032,NULL,86600,22976,0.75,19032
+Merrimack College,Private,No,0.8154,NULL,32442,57100,23250,0.6847,32442
+Mount Holyoke College,Private,No,0.5084,NULL,26239,48600,18764,0.8615,26239
+Mount Ida College,Private,No,0.7488,NULL,27092,40400,12000,0.3957,27092
+The New England Conservatory of Music,Private,No,0.3281,NULL,37507,32100,24568,0.7957,37507
+Nichols College,Private,No,0.925,NULL,29398,48300,19500,0.5144,29398
+Massachusetts College of Liberal Arts,Public,No,0.7663,17549,NULL,35800,17500,0.5425,17549
+Northeastern University,Private,No,0.2744,NULL,29748,67400,23989,0.8713,29748
+College of Our Lady of the Elms,Private,No,0.7949,NULL,20989,46200,24500,0.5707,20989
+Pine Manor College,Private,No,0.5119,NULL,21112,36600,12000,0.2537,21112
+Regis College,Private,No,0.8163,NULL,28271,47500,24125,0.4641,28271
+Salem State University,Public,No,0.8191,18395,NULL,43500,19197,0.5213,18395
+Simmons University,Private,No,0.6044,NULL,28308,55800,22000,0.7326,28308
+Smith College,Private,No,0.3187,NULL,24829,46200,19000,0.8804,24829
+Springfield College,Private,No,0.6989,NULL,27637,45100,22000,0.7405,27637
+University of Massachusetts-Dartmouth,Public,No,0.8427,18899,NULL,48200,19500,0.4847,18899
+Suffolk University,Private,No,0.8355,NULL,30126,53100,20500,0.6024,30126
+Tufts University,Private,No,0.1491,NULL,32620,75800,15500,0.9323,32620
+Wentworth Institute of Technology,Private,No,0.9187,NULL,36690,65100,20000,0.6745,36690
+Western New England University,Private,No,0.8071,NULL,29694,54900,19500,0.592,29694
+Westfield State University,Public,No,0.8525,17773,NULL,46100,16750,0.6504,17773
+Williams College,Private,No,0.1458,NULL,22667,59000,11500,0.9376,22667
+Worcester Polytechnic Institute,Private,No,0.4849,NULL,40376,84900,27000,0.8865,40376
+Worcester State University,Public,No,0.7633,18836,NULL,48200,12931,0.5544,18836
+Adrian College,Private,No,0.5973,NULL,27209,38600,18468,0.5249,27209
+Andrews University,Private,No,0.5766,NULL,21460,45200,21453,0.5486,21460
+Aquinas College,Private,No,0.7451,NULL,16927,37300,20500,0.5947,16927
+Baker College,Private,No,NULL,NULL,12871,27200,14668,0.1261,12871
+Calvin College,Private,No,0.8348,NULL,25596,44800,20500,0.7234,25596
+Central Michigan University,Public,No,0.6775,15531,NULL,41900,21250,0.5836,15531
+College for Creative Studies,Private,No,0.4899,NULL,36313,44100,18635,0.5972,36313
+Davenport University,Private,No,0.8192,NULL,16972,30700,16500,0.4437,16972
+University of Detroit Mercy,Private,No,0.6471,NULL,19755,47100,21000,0.6219,19755
+Eastern Michigan University,Public,No,0.4474,14043,NULL,39300,19253,0.404,14043
+Ferris State University,Public,No,0.7416,12949,NULL,44500,16492,0.4491,12949
+Kettering University,Private,No,0.7033,NULL,37247,80500,27000,0.6109,37247
+Cornerstone University,Private,No,0.6737,NULL,20415,35400,19654,0.5262,20415
+Grand Valley State University,Public,No,0.809,16975,NULL,42800,19500,0.6526,16975
+Lawrence Technological University,Private,No,0.5964,NULL,27331,55300,19500,0.5357,27331
+Madonna University,Private,No,0.7433,NULL,15436,40900,20500,0.6897,15436
+Marygrove College,Private,No,0.4098,NULL,11992,28700,23250,0.3261,11992
+Rochester College,Private,No,1,NULL,17557,35300,15364,0.4194,17557
+University of Michigan-Ann Arbor,Public,No,0.265,14860,NULL,63400,15459,0.9159,14860
+Michigan State University,Public,No,0.7155,18576,NULL,53600,21250,0.7934,18576
+Michigan Technological University,Public,No,0.7449,15481,NULL,66400,19500,0.6652,15481
+University of Michigan-Dearborn,Public,No,0.6428,10940,NULL,48600,17500,0.5444,10940
+University of Michigan-Flint,Public,No,0.6512,11577,NULL,40600,19000,0.4405,11577
+Northern Michigan University,Public,No,0.7437,13883,NULL,35500,15000,0.4904,13883
+Northwood University,Private,No,0.6927,NULL,24587,48900,18500,0.5542,24587
+Oakland University,Public,No,0.8441,12779,NULL,43100,18500,0.4571,12779
+Olivet College,Private,No,0.7007,NULL,20098,38400,14000,0.5324,20098
+Saginaw Valley State University,Public,No,0.7384,14729,NULL,39300,19500,0.3976,14729
+Siena Heights University,Private,No,0.6712,NULL,21333,42000,14344,0.4271,21333
+Spring Arbor University,Private,No,0.6702,NULL,18730,41000,23900,0.5935,18730
+Wayne State University,Public,No,0.6741,12970,NULL,40800,17250,0.4656,12970
+Western Michigan University,Public,No,0.8232,17259,NULL,45000,20250,0.5082,17259
+Augsburg University,Private,No,0.6458,NULL,23316,46800,20834,0.6211,23316
+Bemidji State University,Public,No,0.662,15464,NULL,40600,12500,0.466,15464
+Bethel University,Private,No,0.835,NULL,27151,47300,18250,0.7052,27151
+Concordia College at Moorhead,Private,No,0.616,NULL,23393,44500,23000,0.6967,23393
+Concordia University-Saint Paul,Private,No,0.5487,NULL,18392,49200,14000,0.5533,18392
+Martin Luther College,Private,No,0.7061,NULL,18334,37300,15625,0.6919,18334
+Hamline University,Private,No,0.6911,NULL,21103,49200,18998,0.6673,21103
+Minnesota State University-Mankato,Public,No,0.6096,15615,NULL,44900,15000,0.4768,15615
+Argosy University-Twin Cities,Private,Yes,NULL,NULL,19906,41400,15585,0.3158,19906
+Metropolitan State University,Public,No,0.5554,14814,NULL,48200,14000,0.2745,14814
+University of Minnesota-Twin Cities,Public,No,0.4959,17396,NULL,51900,16751,0.801,17396
+Minneapolis College of Art and Design,Private,No,0.5853,NULL,26763,35400,20500,0.5926,26763
+University of Minnesota-Duluth,Public,No,0.7661,17131,NULL,47200,15750,0.5924,17131
+Minnesota State University Moorhead,Public,No,0.6039,16096,NULL,40600,15690,0.4632,16096
+North Central University,Private,No,0.9074,NULL,20688,34600,18904,0.3992,20688
+University of Northwestern-St Paul,Private,No,0.934,NULL,23249,38500,18750,0.6203,23249
+Northwestern Health Sciences University,Private,No,NULL,NULL,14145,39900,8880,0.6667,14145
+Saint Cloud State University,Public,No,0.8578,14633,NULL,44200,14250,0.4434,14633
+Saint Johns University,Private,No,0.8023,NULL,23977,60600,23250,0.7389,23977
+Saint Mary's University of Minnesota,Private,No,0.6438,NULL,20210,47800,17776,0.5791,20210
+Crown College,Private,No,0.512,NULL,22764,35100,18500,0.6688,22764
+The College of Saint Scholastica,Private,No,0.6825,NULL,23935,51400,16608,0.6694,23935
+University of St Thomas,Private,No,0.8416,NULL,30503,56800,21460,0.7685,30503
+St Catherine University,Private,No,0.7013,NULL,19935,49200,21000,0.5305,19935
+Southwest Minnesota State University,Public,No,0.6163,14708,NULL,37600,13775,0.4494,14708
+Winona State University,Public,No,0.665,17695,NULL,44700,17000,0.6067,17695
+Alcorn State University,Public,No,0.7861,15388,NULL,31100,20037,0.3278,15388
+Belhaven University,Private,No,0.5912,NULL,17395,37300,18841,0.4932,17395
+Blue Mountain College,Private,No,0.9952,NULL,12140,31400,10000,0.6092,12140
+Delta State University,Public,No,0.8692,12809,NULL,33700,14250,0.3963,12809
+Jackson State University,Public,No,0.7173,15380,NULL,30000,23000,0.3411,15380
+Millsaps College,Private,No,0.4895,NULL,22292,48100,18500,0.6652,22292
+University of Mississippi,Public,No,0.8391,13929,NULL,42700,15000,0.6007,13929
+Mississippi University for Women,Public,No,0.9802,10684,NULL,34100,12500,0.4382,10684
+Mississippi Valley State University,Public,No,0.8628,14488,NULL,23200,19000,0.3,14488
+Mississippi College,Private,No,0.3903,NULL,16693,38300,15000,0.5919,16693
+Mississippi State University,Public,No,0.624,16192,NULL,40200,15000,0.579,16192
+University of Southern Mississippi,Public,No,0.9843,13178,NULL,36400,15000,0.4674,13178
+Tougaloo College,Private,No,0.7472,NULL,11623,27500,20000,0.5,11623
+William Carey University,Private,No,0.4882,NULL,17954,34700,16419,0.5694,17954
+Avila University,Private,No,0.3886,NULL,20887,44100,18010,0.4161,20887
+Baptist Bible College,Private,No,NULL,NULL,14186,29000,12000,0.2958,14186
+Cox College,Private,No,1,NULL,16711,42100,18375,0.1765,16711
+Calvary University,Private,No,0.7436,NULL,15650,36800,12000,0.6667,15650
+University of Central Missouri,Public,No,0.836,14267,NULL,38000,15250,0.4909,14267
+Cleveland University-Kansas City,Private,No,0.8,NULL,16883,43800,10368,1,16883
+Columbia College,Private,No,NULL,NULL,24856,38300,15000,0.2627,24856
+Culver-Stockton College,Private,No,0.5466,NULL,19797,36600,15000,0.4772,19797
+Drury University,Private,No,0.6608,NULL,19631,32200,14250,0.5451,19631
+Evangel University,Private,No,0.9935,NULL,21004,35800,18000,0.4817,21004
+Fontbonne University,Private,No,0.9236,NULL,22163,40800,20409,0.5,22163
+Hannibal-LaGrange University,Private,No,0.5455,NULL,18594,34300,13447,0.5063,18594
+Lincoln University,Public,No,NULL,11187,NULL,31400,12902,0.1584,11187
+Lindenwood University,Private,No,0.7375,NULL,17548,41300,21458,0.4985,17548
+Maryville University of Saint Louis,Private,No,0.9188,NULL,23891,47200,16453,0.7156,23891
+Missouri Baptist University,Private,No,0.545,NULL,19599,35600,16375,0.3772,19599
+Missouri Southern State University,Public,No,0.9508,9140,NULL,33300,10100,0.3319,9140
+Missouri Valley College,Private,No,0.5365,NULL,20730,34000,9500,0.2853,20730
+Missouri Western State University,Public,No,NULL,10905,NULL,34400,12250,0.2938,10905
+University of Missouri-Columbia,Public,No,0.7809,18602,NULL,48300,18250,0.6823,18602
+University of Missouri-Kansas City,Public,No,0.6415,14897,NULL,45700,14000,0.4847,14897
+Missouri University of Science and Technology,Public,No,0.8351,14473,NULL,71200,16750,0.6413,14473
+University of Missouri-St Louis,Public,No,0.7594,10010,NULL,42900,16718,0.5565,10010
+Truman State University,Public,No,0.6749,12537,NULL,44500,14000,0.7489,12537
+Northwest Missouri State University,Public,No,0.7411,11502,NULL,40000,14000,0.4978,11502
+Park University,Private,No,0.6904,NULL,17013,45900,12295,0.2333,17013
+Rockhurst University,Private,No,0.7246,NULL,22901,50800,15734,0.7454,22901
+Saint Louis University,Private,No,0.6443,NULL,27341,56500,20500,0.7733,27341
+St. Louis College of Pharmacy,Private,No,0.7202,NULL,30274,124100,19500,0.7056,30274
+Southwest Baptist University,Private,No,0.732,NULL,17959,33700,14750,0.4538,17959
+Stephens College,Private,No,0.5311,NULL,23249,33900,18500,0.6087,23249
+Southeast Missouri State University,Public,No,0.8455,12655,NULL,37000,14000,0.521,12655
+Missouri State University-Springfield,Public,No,0.8404,15855,NULL,39300,15000,0.5491,15855
+Washington University in St Louis,Private,No,0.1596,NULL,28540,70100,14781,0.9417,28540
+Webster University,Private,No,0.5356,NULL,22937,42300,17947,0.6356,22937
+William Jewell College,Private,No,0.4763,NULL,21134,45700,20000,0.5926,21134
+William Woods University,Private,No,0.7486,NULL,21619,36500,13834,0.5922,21619
+Montana State University Billings,Public,No,NULL,14340,NULL,34600,9500,0.2717,14340
+University of Providence,Private,No,0.616,NULL,20235,32500,15750,0.454,20235
+Montana Technological University,Public,No,0.9238,12993,NULL,41700,11737,0.4137,12993
+Montana State University,Public,No,0.8311,17754,NULL,43200,13000,0.5449,17754
+The University of Montana,Public,No,0.9264,15006,NULL,35500,14250,0.458,15006
+Montana State University-Northern,Public,No,1,12898,NULL,37100,8250,0.3266,12898
+Rocky Mountain College,Private,No,0.6438,NULL,20165,38800,15999,0.5244,20165
+Bellevue University,Private,No,NULL,NULL,11938,53600,15000,0.1667,11938
+Clarkson College,Private,No,0.6207,NULL,22913,49300,21000,0.7407,22913
+Bryan College of Health Sciences,Private,No,0.5234,NULL,24512,51300,23250,0.7857,24512
+Chadron State College,Public,No,NULL,14567,NULL,38200,11250,0.4184,14567
+Concordia University-Nebraska,Private,No,0.7495,NULL,19789,40100,18750,0.6624,19789
+Creighton University,Private,No,0.7201,NULL,30427,59700,19500,0.806,30427
+Grace University,Private,No,0.4591,NULL,20041,31400,12249,0.4286,20041
+Hastings College,Private,No,0.6833,NULL,21703,44400,16752,0.5452,21703
+University of Nebraska at Kearney,Public,No,0.8175,16644,NULL,41300,12500,0.6133,16644
+Nebraska Methodist College of Nursing & Allied Health,Private,No,0.6818,NULL,21159,48700,20000,0.7,21159
+Midland University,Private,No,0.643,NULL,23017,39900,13250,0.4868,23017
+University of Nebraska at Omaha,Public,No,0.8653,13173,NULL,44200,13188,0.4708,13173
+Purdue University Global-Omaha,Private,Yes,NULL,NULL,19569,33900,12500,0.25,19569
+Nebraska Wesleyan University,Private,No,0.7126,NULL,23652,46000,18750,0.6518,23652
+University of Nebraska-Lincoln,Public,No,0.6438,17784,NULL,46400,13919,0.6795,17784
+Peru State College,Public,No,NULL,13182,NULL,37500,13460,0.3605,13182
+College of Saint Mary,Private,No,0.5608,NULL,20154,41200,22250,0.4773,20154
+Union College,Private,No,0.5995,NULL,20706,40800,19500,0.539,20706
+Wayne State College,Public,No,NULL,13400,NULL,36100,13418,0.5089,13400
+York College,Private,No,0.4849,NULL,15910,35400,14125,0.5378,15910
+University of Nevada-Las Vegas,Public,No,0.8107,10555,NULL,45000,12500,0.4157,10555
+University of Nevada-Reno,Public,No,0.8803,14505,NULL,47000,13250,0.54990000000000006,14505
+Sierra Nevada College,Private,No,0.6898,NULL,37264,42100,15000,0.4412,37264
+Dartmouth College,Private,No,0.1045,NULL,30421,75500,10342,0.9595,30421
+Franklin Pierce University,Private,No,0.7643,NULL,24266,39700,12521,0.489,24266
+New England College,Private,No,0.9959,NULL,26966,37900,11385,0.4222,26966
+Southern New Hampshire University,Private,No,0.7805,NULL,40617,45400,7916,0.488,40617
+University of New Hampshire-Main Campus,Public,No,0.7651,24529,NULL,51400,23250,0.7777,24529
+Keene State College,Public,No,0.8267,19544,NULL,42400,20500,0.6236,19544
+Plymouth State University,Public,No,0.7879,21829,NULL,41700,17158,0.5447,21829
+Rivier University,Private,No,0.6794,NULL,23922,45400,19299,0.5408,23922
+Granite State College,Public,No,NULL,13911,NULL,35400,9145,0.1379,13911
+Caldwell University,Private,No,0.6374,NULL,22604,44400,21250,0.6601,22604
+Centenary University,Private,No,0.87,NULL,20810,45800,19326,0.6064,20810
+Drew University,Private,No,0.6343,NULL,26218,52700,19583,0.6189,26218
+Fairleigh Dickinson University-Metropolitan Campus,Private,No,0.8753,NULL,16136,48100,18750,0.3896,16136
+Felician University,Private,No,0.7941,NULL,18056,47300,19791,0.4692,18056
+Fairleigh Dickinson University-Florham Campus,Private,No,0.839,NULL,22466,48100,18750,0.547,22466
+Georgian Court University,Private,No,0.6886,NULL,24553,44400,18750,0.4774,24553
+Rowan University,Public,No,0.6942,23692,NULL,50000,16750,0.6894,23692
+New Jersey City University,Public,No,0.9185,12659,NULL,42700,12750,0.3289,12659
+Kean University,Public,No,0.8222,19044,NULL,46100,17751,0.4863,19044
+Monmouth University,Private,No,0.7394,NULL,30273,50500,21315,0.7044,30273
+Montclair State University,Public,No,0.7066,18500,NULL,49600,18776,0.6533,18500
+New Jersey Institute of Technology,Public,No,0.6139,20011,NULL,68500,18000,0.6355,20011
+Princeton University,Private,No,0.0641,NULL,10027,74700,8500,0.9731,10027
+Ramapo College of New Jersey,Public,No,0.5736,21316,NULL,53200,18750,0.7402,21316
+Rider University,Private,No,0.6712,NULL,28952,50600,20500,0.6234,28952
+Rutgers University-Camden,Public,No,0.6933,13225,NULL,57900,18750,0.58,13225
+Rutgers University-New Brunswick,Public,No,0.578,20379,NULL,57900,18750,0.8007,20379
+Rutgers University-Newark,Public,No,0.6424,13205,NULL,57900,18750,0.6789,13205
+Saint Peter's University,Private,No,0.9129,NULL,12382,45800,17621,0.5372,12382
+Seton Hall University,Private,No,0.7316,NULL,27563,57200,19500,0.6714,27563
+College of Saint Elizabeth,Private,No,0.6457,NULL,19476,43400,13000,0.4101,19476
+Stevens Institute of Technology,Private,No,0.4388,NULL,36620,89200,24000,0.8301,36620
+Stockton University,Public,No,0.8153,20364,NULL,47500,18500,0.7284,20364
+The College of New Jersey,Public,No,0.4753,26670,NULL,58500,20500,0.8658,26670
+William Paterson University of New Jersey,Public,No,0.9239,17064,NULL,46600,17125,0.5516,17064
+Eastern New Mexico University-Main Campus,Public,No,0.6045,8801,NULL,29500,10204,0.3343,8801
+New Mexico Highlands University,Public,No,NULL,13685,NULL,36300,10243,0.2222,13685
+New Mexico Institute of Mining and Technology,Public,No,0.2168,13694,NULL,50000,12325,0.4722,13694
+University of New Mexico-Main Campus,Public,No,0.6704,14315,NULL,36400,13484,0.4868,14315
+New Mexico State University-Main Campus,Public,No,0.6384,8625,NULL,34600,11000,0.4586,8625
+University of the Southwest,Private,No,0.352,NULL,15761,36200,11000,0.2319,15761
+Western New Mexico University,Public,No,NULL,12045,NULL,30900,12250,0.2665,12045
+Adelphi University,Private,No,0.7312,NULL,28322,58500,19500,0.6752,28322
+Albany College of Pharmacy and Health Sciences,Private,No,0.7855,NULL,29761,124700,25000,0.7619,29761
+Alfred University,Private,No,0.6273,NULL,22286,41400,19500,0.5331,22286
+Bard College,Private,No,0.5821,NULL,26792,39700,20500,0.7402,26792
+Boricua College,Private,No,NULL,NULL,15671,32800,5000,0.7133,15671
+Canisius College,Private,No,0.7819,NULL,20913,47300,20344,0.6934,20913
+Clarkson University,Private,No,0.6571,NULL,30563,72000,23000,0.7294,30563
+Colgate University,Private,No,0.2814,NULL,23310,63600,15000,0.9123,23310
+Metropolitan College of New York,Private,No,0.9127,NULL,20806,36600,14750,0.2234,20806
+Columbia University in the City of New York,Private,No,0.0661,NULL,24231,83300,19500,0.9514,24231
+Concordia College-New York,Private,No,0.7553,NULL,16852,48000,20500,0.4593,16852
+Cooper Union for the Advancement of Science and Art,Private,No,0.1305,NULL,14981,64900,13000,0.8462,14981
+Cornell University,Private,No,0.1267,NULL,31230,77200,13000,0.9339,31230
+Culinary Institute of America,Private,No,0.9718,NULL,31036,43200,12000,0.7288,31036
+CUNY Bernard M Baruch College,Public,No,0.2925,2695,NULL,57200,9500,0.6987,2695
+CUNY Brooklyn College,Public,No,0.4043,2725,NULL,43900,9176,0.5812,2725
+College of Staten Island CUNY,Public,No,NULL,5687,NULL,41500,8500,0.3018,5687
+CUNY City College,Public,No,0.4637,2540,NULL,46300,9500,0.4997,2540
+CUNY Hunter College,Public,No,0.4018,3170,NULL,47200,9600,0.5192,3170
+CUNY John Jay College of Criminal Justice,Public,No,0.3875,3843,NULL,44900,8560,0.4745,3843
+CUNY Lehman College,Public,No,0.35,1886,NULL,43100,8315,0.4556,1886
+CUNY Queens College,Public,No,0.4273,3318,NULL,48200,9000,0.5384,3318
+CUNY York College,Public,No,0.4447,3820,NULL,40800,7378,0.2929,3820
+D'Youville College,Private,No,0.9667,NULL,19022,46400,21500,0.5448,19022
+Daemen College,Private,No,0.4942,NULL,17119,42800,15000,0.5517,17119
+Dominican College of Blauvelt,Private,No,0.6895,NULL,19690,46300,15625,0.4318,19690
+Elmira College,Private,No,0.8511,NULL,26243,45900,25000,0.6034,26243
+Fashion Institute of Technology,Public,No,0.4704,11772,NULL,48900,12734,0.7676,11772
+Five Towns College,Private,Yes,0.9053,NULL,21798,34400,16018,0.3077,21798
+Fordham University,Private,No,0.4644,NULL,35694,59200,22250,0.7946,35694
+Hilbert College,Private,No,0.8676,NULL,17787,42600,20000,0.5022,17787
+Hobart William Smith Colleges,Private,No,0.6392,NULL,35172,53500,25000,0.8088,35172
+Hofstra University,Private,No,0.6395,NULL,32240,53100,18523,0.6305,32240
+Houghton College,Private,No,0.9135,NULL,19325,37400,19500,0.7328,19325
+Iona College,Private,No,0.922,NULL,26717,56100,18500,0.6441,26717
+Ithaca College,Private,No,0.7052,NULL,33848,52300,20500,0.7603,33848
+The Juilliard School,Private,No,0.0592,NULL,35019,32800,25356,0.9505,35019
+Keuka College,Private,No,0.7003,NULL,25600,43800,19960,0.5736,25600
+LIM College,Private,Yes,0.9293,NULL,36730,46000,17750,0.4724,36730
+Le Moyne College,Private,No,0.6395,NULL,23130,49600,19500,0.7362,23130
+LIU Brooklyn,Private,No,0.8426,NULL,26355,49000,18750,0.352,26355
+Long Island University,Private,No,0.8269,NULL,28989,49000,18750,0.4732,28989
+Manhattan College,Private,No,0.7539,NULL,30521,65000,21500,0.7519,30521
+Manhattan School of Music,Private,No,0.4287,NULL,46324,32300,19270,0.6939,46324
+Manhattanville College,Private,No,0.8206,NULL,21923,45600,20205,0.546,21923
+Marist College,Private,No,0.4262,NULL,35290,56900,21198,0.8365,35290
+Medaille College,Private,No,0.7453,NULL,11664,39400,14250,0.4344,11664
+Mercy College,Private,No,0.7873,NULL,16685,39700,18277,0.4303,16685
+Molloy College,Private,No,0.7603,NULL,27949,60500,23844,0.7197,27949
+Monroe College,Private,Yes,0.5222,NULL,11821,30300,14166,0.5306,11821
+Mount Saint Mary College,Private,No,0.9338,NULL,24301,51600,20500,0.5376,24301
+College of Mount Saint Vincent,Private,No,0.9109,NULL,16802,54400,24750,0.5399,16802
+Nazareth College,Private,No,0.6264,NULL,29081,44300,21000,0.6674,29081
+The College of New Rochelle,Private,No,0.6757,NULL,33513,33900,18099,0.3333,33513
+The New School,Private,No,0.6151,NULL,40819,44500,17125,0.6733,40819
+New York University,Private,No,0.2766,NULL,40336,61900,19500,0.8354,40336
+Niagara University,Private,No,0.842,NULL,19307,42800,21875,0.6762,19307
+New York Institute of Technology,Private,No,0.7693,NULL,22349,55100,15200,0.4957,22349
+New York School of Interior Design,Private,No,0.3333,NULL,34917,52200,14250,0.6364,34917
+Nyack College,Private,No,0.984,NULL,21478,41300,17897,0.4456,21478
+Pace University,Private,No,0.7956,NULL,29588,60300,18750,0.5358,29588
+Pratt Institute-Main,Private,No,0.568,NULL,43969,43400,20000,0.6629,43969
+Rensselaer Polytechnic Institute,Private,No,0.4317,NULL,34839,82000,23250,0.8339,34839
+Roberts Wesleyan College,Private,No,0.6887,NULL,23304,40900,19500,0.5975,23304
+Rochester Institute of Technology,Private,No,0.5672,NULL,29895,62400,23000,0.673,29895
+University of Rochester,Private,No,0.3421,NULL,30480,61200,19000,0.8525,30480
+The Sage Colleges,Private,No,0.556,NULL,19704,44800,19625,0.5588,19704
+St Bonaventure University,Private,No,0.7053,NULL,26071,47700,23250,0.6871,26071
+St Francis College,Private,No,0.6321,NULL,9560,45700,17750,0.4714,9560
+St Lawrence University,Private,No,0.4833,NULL,27691,50100,23250,0.854,27691
+The College of Saint Rose,Private,No,0.8273,NULL,23038,43800,19000,0.5859,23038
+St. Thomas Aquinas College,Private,No,0.7799,NULL,21106,46900,18741,0.543,21106
+Sarah Lawrence College,Private,No,0.5319,NULL,33358,43000,13625,0.7941,33358
+Siena College,Private,No,0.7785,NULL,27588,57100,23250,0.7816,27588
+Skidmore College,Private,No,0.2452,NULL,27410,49700,19500,0.8703,27410
+St. Joseph's College-New York,Private,No,0.6768,NULL,15665,50400,15000,0.7122,15665
+Saint John Fisher College,Private,No,0.6453,NULL,27023,47800,20000,0.7409,27023
+St John's University-New York,Private,No,0.6773,NULL,25747,55200,19000,0.5792,25747
+SUNY College of Technology at Delhi,Public,No,0.6241,15559,NULL,37200,11170,0.4417,15559
+SUNY at Albany,Public,No,0.5401,18093,NULL,51500,15250,0.6503,18093
+Binghamton University,Public,No,0.4036,18378,NULL,61600,16750,0.8231,18378
+University at Buffalo,Public,No,0.5734,17469,NULL,52600,14851,0.7528,17469
+Stony Brook University,Public,No,0.4219,13770,NULL,57600,15938,0.7181,13770
+SUNY College of Environmental Science and Forestry,Public,No,0.5215,17923,NULL,45600,14000,0.784,17923
+SUNY Polytechnic Institute,Public,No,0.6247,14878,NULL,51000,13000,0.5152,14878
+SUNY College at Brockport,Public,No,0.5318,16211,NULL,42600,15415,0.659,16211
+SUNY Buffalo State,Public,No,0.5756,13111,NULL,39800,13250,0.4738,13111
+SUNY Cortland,Public,No,0.4793,19562,NULL,47000,17500,0.7102,19562
+SUNY at Fredonia,Public,No,0.6491,16074,NULL,41700,18500,0.6311,16074
+SUNY College at Geneseo,Public,No,0.7236,18879,NULL,48800,16979,0.7736,18879
+State University of New York at New Paltz,Public,No,0.443,16192,NULL,45000,15508,0.7229,16192
+SUNY Oneonta,Public,No,0.5952,17513,NULL,43400,17330,0.709,17513
+SUNY College at Oswego,Public,No,0.5365,15959,NULL,43900,16771,0.6567,15959
+SUNY College at Potsdam,Public,No,0.666,14425,NULL,39700,18050,0.5251,14425
+SUNY at Purchase College,Public,No,0.7401,19205,NULL,35200,17829,0.6651,19205
+SUNY College at Old Westbury,Public,No,0.7822,11289,NULL,44300,13000,0.4787,11289
+SUNY College at Plattsburgh,Public,No,0.529,14022,NULL,42400,15857,0.6257,14022
+SUNY Empire State College,Public,No,NULL,13173,NULL,41400,14250,0.1389,13173
+SUNY Maritime College,Public,No,0.695,18413,NULL,82800,20000,0.6267,18413
+Syracuse University,Private,No,0.4688,NULL,34173,62100,25000,0.8272,34173
+Touro College,Private,No,0.7437,NULL,23539,30400,12500,0.5708,23539
+United States Merchant Marine Academy,Public,No,0.2216,6796,NULL,88100,10983,0.8051,6796
+Utica College,Private,No,0.8366,NULL,21360,45300,16250,0.4896,21360
+School of Visual Arts,Private,Yes,0.7236,NULL,43387,41800,22625,0.6407,43387
+Wagner College,Private,No,0.6969,NULL,30106,56700,21500,0.7021,30106
+Yeshiva University,Private,No,0.6282,NULL,36306,58500,14500,0.8163,36306
+Appalachian State University,Public,No,0.7,13691,NULL,38800,15647,0.7344,13691
+Barton College,Private,No,0.3891,NULL,23472,38100,18625,0.5256,23472
+Cabarrus College of Health Sciences,Private,No,0.8421,NULL,17072,48600,15708,0.5909,17072
+Campbell University,Private,No,0.8058,NULL,24446,45900,14750,0.5168,24446
+Catawba College,Private,No,0.424,NULL,19807,39400,17000,0.4332,19807
+Chowan University,Private,No,0.6004,NULL,17199,34300,10500,0.2595,17199
+Duke University,Private,No,0.0986,NULL,36415,84400,10500,0.9535,36415
+East Carolina University,Public,No,0.7902,15415,NULL,40500,18250,0.6214,15415
+Elizabeth City State University,Public,No,0.5981,2060,NULL,30400,20500,0.3798,2060
+Elon University,Private,No,0.6653,NULL,34459,51900,19500,0.8377,34459
+Fayetteville State University,Public,No,0.6756,5824,NULL,31200,17812,0.3292,5824
+Gardner-Webb University,Private,No,0.527,NULL,21154,38700,17000,0.4912,21154
+Greensboro College,Private,No,0.4069,NULL,30811,36900,12500,0.1636,30811
+High Point University,Private,No,0.8066,NULL,38741,39000,19000,0.634,38741
+John Wesley University,Private,No,0.4464,NULL,18737,33900,12000,0.25,18737
+Johnson C Smith University,Private,No,0.381,NULL,19820,28400,19305,0.4355,19820
+Lenoir-Rhyne University,Private,No,0.739,NULL,18861,38500,15952,0.4325,18861
+Mars Hill University,Private,No,0.5822,NULL,17078,31500,14250,0.3138,17078
+Meredith College,Private,No,0.6891,NULL,24545,39500,19500,0.6297,24545
+Methodist University,Private,No,0.572,NULL,31129,39300,12000,0.3138,31129
+Montreat College,Private,No,0.6515,NULL,19720,37000,14719,0.3171,19720
+University of Mount Olive,Private,No,0.491,NULL,14909,39500,19474,0.4208,14909
+North Carolina A & T State University,Public,No,0.6223,11743,NULL,34700,21002,0.4274,11743
+University of North Carolina at Asheville,Public,No,0.8039,12799,NULL,34500,14000,0.6164,12799
+University of North Carolina at Chapel Hill,Public,No,0.244,14163,NULL,55600,14786,0.9087,14163
+University of North Carolina at Charlotte,Public,No,0.6584,16286,NULL,44000,17000,0.5398,16286
+University of North Carolina at Greensboro,Public,No,0.7804,12226,NULL,37500,15150,0.5429,12226
+North Carolina Central University,Public,No,0.8281,13474,NULL,32900,24500,0.4389,13474
+University of North Carolina School of the Arts,Public,No,0.3264,14101,NULL,35500,24179,0.7022,14101
+North Carolina State University at Raleigh,Public,No,0.5136,15024,NULL,52500,18438,0.7864,15024
+University of North Carolina Wilmington,Public,No,0.6652,18093,NULL,41600,15860,0.7248,18093
+University of North Carolina at Pembroke,Public,No,0.8074,12265,NULL,34400,15146,0.3972,12265
+Pfeiffer University,Private,No,0.6602,NULL,23898,39200,15280,0.4211,23898
+Queens University of Charlotte,Private,No,0.7916,NULL,23348,42200,20328,0.5449,23348
+Salem College,Private,No,0.5684,NULL,17836,36300,19506,0.5691,17836
+Shaw University,Private,No,0.5286,NULL,18719,29200,12000,0.1764,18719
+St. Andrews University,Private,No,0.4123,NULL,25965,37200,9500,0.3451,25965
+Wake Forest University,Private,No,0.2757,NULL,33382,63800,17500,0.8824,33382
+Warren Wilson College,Private,No,0.7936,NULL,25117,25600,14459,0.533,25117
+Wingate University,Private,No,0.9324,NULL,18354,43200,12000,0.5234,18354
+Winston-Salem State University,Public,No,0.6657,11811,NULL,33200,16159,0.4938,11811
+Western Carolina University,Public,No,0.3884,15157,NULL,37700,15878,0.5903,15157
+University of Jamestown,Private,No,0.6525,NULL,18109,43800,16750,0.5256,18109
+University of Mary,Private,No,0.7635,NULL,17342,48000,16349,0.5374,17342
+Minot State University,Public,No,0.6897,10806,NULL,41200,11169,0.3701,10806
+University of North Dakota,Public,No,0.8348,15056,NULL,48700,17125,0.5362,15056
+North Dakota State University-Main Campus,Public,No,0.9159,15265,NULL,48200,15000,0.5798,15265
+Trinity Bible College and Graduate School,Private,No,0.4236,NULL,21023,27000,10142,0.4082,21023
+Valley City State University,Public,No,0.763,12565,NULL,39300,11897,0.3487,12565
+University of Akron Main Campus,Public,No,0.9255,17951,NULL,36500,15402,0.3789,17951
+Art Academy of Cincinnati,Private,No,0.4544,NULL,25123,25800,14000,0.5606,25123
+Ashland University,Private,No,0.7351,NULL,20221,40400,19356,0.5987,20221
+Baldwin Wallace University,Private,No,0.7805,NULL,23729,44400,24000,0.6737,23729
+Bluffton University,Private,No,0.4884,NULL,24452,39000,19000,0.508,24452
+Bowling Green State University-Main Campus,Public,No,0.732,19128,NULL,40500,17125,0.5306,19128
+Capital University,Private,No,0.6865,NULL,20866,44000,21500,0.5884,20866
+Case Western Reserve University,Private,No,0.3312,NULL,35316,74600,21000,0.8257,35316
+Cedarville University,Private,No,0.7145,NULL,21490,41300,17000,0.7168,21490
+Central State University,Public,No,0.4801,13862,NULL,26100,9500,0.2028,13862
+Cincinnati Christian University,Private,No,0.8811,NULL,20445,32700,10800,0.4,20445
+University of Cincinnati-Main Campus,Public,No,0.7649,23498,NULL,42300,13000,0.6886,23498
+Ohio Christian University,Private,No,NULL,NULL,25529,31800,15502,0.2867,25529
+Cleveland Institute of Music,Private,No,0.4306,NULL,37695,40100,19798,0.4533,37695
+Cleveland State University,Public,No,0.9006,16926,NULL,41300,15728,0.4315,16926
+Columbus College of Art and Design,Private,No,0.7011,NULL,18539,32200,21750,0.6119,18539
+University of Dayton,Private,No,0.7168,NULL,32721,55100,20500,0.7868,32721
+Defiance College,Private,No,0.5648,NULL,24626,41000,18875,0.3925,24626
+The University of Findlay,Private,No,0.7508,NULL,22619,43200,19389,0.6129,22619
+Franklin University,Private,No,NULL,NULL,24692,48500,15880,0.0566,24692
+Gods Bible School and College,Private,No,NULL,NULL,10311,22600,5500,0.4,10311
+Heidelberg University,Private,No,0.7606,NULL,23541,39300,19500,0.4912,23541
+Hiram College,Private,No,0.6353,NULL,21474,42700,22500,0.557,21474
+John Carroll University,Private,No,0.8503,NULL,25017,53800,23250,0.779,25017
+Kent State University at Kent,Public,No,0.8751,18432,NULL,38000,17470,0.577,18432
+Kettering College,Private,No,0.2836,NULL,19664,54500,21750,0.5176,19664
+Lake Erie College,Private,No,0.6045,NULL,19160,36200,15250,0.4641,19160
+Lourdes University,Private,No,0.9667,NULL,18434,36500,21348,0.3333,18434
+Malone University,Private,No,0.6599,NULL,20603,41700,15703,0.4903,20603
+Marietta College,Private,No,0.6703,NULL,24022,45800,23322,0.5884,24022
+Miami University-Oxford,Public,No,0.682,21288,NULL,47100,15750,0.7914,21288
+Mount Carmel College of Nursing,Private,No,0.9932,NULL,18093,57700,21500,0.7284,18093
+University of Mount Union,Private,No,0.8109,NULL,22786,42900,20500,0.6181,22786
+Mount Vernon Nazarene University,Private,No,0.7674,NULL,21112,43600,18719,0.632,21112
+Mount Saint Joseph University,Private,No,0.7325,NULL,17775,41400,19500,0.6069,17775
+Muskingum University,Private,No,0.7439,NULL,19252,39600,19288,0.4823,19252
+Notre Dame College,Private,No,0.8948,NULL,21106,42600,16750,0.3655,21106
+University of Northwestern Ohio,Private,No,NULL,NULL,18653,40800,14000,0.5666,18653
+Oberlin College,Private,No,0.3372,NULL,31331,40800,21215,0.8627,31331
+Ohio Dominican University,Private,No,0.7716,NULL,19454,41000,17875,0.474,19454
+Ohio Northern University,Private,No,0.661,NULL,23100,63500,21625,0.7562,23100
+Ohio State University-Main Campus,Public,No,0.4806,17699,NULL,46100,14750,0.8264,17699
+Ohio University-Main Campus,Public,No,0.7393,21892,NULL,40500,14000,0.6408,21892
+Otterbein University,Private,No,0.764,NULL,24287,43100,20791,0.6367,24287
+University of Rio Grande,Private,No,NULL,NULL,32597,33900,11700,0.3863,32597
+Shawnee State University,Public,No,0.6891,15646,NULL,34200,12250,0.2922,15646
+Franciscan University of Steubenville,Private,No,0.8318,NULL,23699,37700,20500,0.7768,23699
+Tiffin University,Private,No,0.6883,NULL,20638,42600,18549,0.2816,20638
+University of Toledo,Public,No,0.9435,15095,NULL,43800,13000,0.4075,15095
+Union Institute & University,Private,No,NULL,NULL,16134,42400,16125,0,16134
+Ursuline College,Private,No,0.9333,NULL,17579,47800,22500,0.5256,17579
+Walsh University,Private,No,0.7923,NULL,18875,43500,22249,0.6113,18875
+Wilberforce University,Private,No,0.4829,NULL,10892,34200,9500,0.2566,10892
+Wittenberg University,Private,No,0.7218,NULL,24263,43200,19410,0.6654,24263
+Wright State University-Main Campus,Public,No,0.9677,16249,NULL,39500,14000,0.3576,16249
+Xavier University,Private,No,0.7391,NULL,30019,51600,21500,0.6924,30019
+Youngstown State University,Public,No,0.6363,10943,NULL,35900,17250,0.3443,10943
+Oklahoma Wesleyan University,Private,No,0.6231,NULL,26109,50900,13979,0.4545,26109
+Southern Nazarene University,Private,No,NULL,NULL,20311,47600,18750,0.4524,20311
+Cameron University,Public,No,NULL,8636,NULL,34300,11000,0.1795,8636
+University of Central Oklahoma,Public,No,0.7552,14594,NULL,38800,12500,0.3771,14594
+East Central University,Public,No,0.4802,9233,NULL,36800,11547,0.3258,9233
+Randall University,Private,No,0.4057,NULL,15557,34500,8316,0.2449,15557
+Langston University,Public,No,NULL,13137,NULL,27700,12250,0.0909,13137
+Northeastern State University,Public,No,0.9569,9167,NULL,35800,12212,0.316,9167
+Northwestern Oklahoma State University,Public,No,0.8304,8612,NULL,36400,9258,0.2295,8612
+Oklahoma Christian University,Private,No,0.6281,NULL,18206,38500,17397,0.5376,18206
+Oklahoma State University-Main Campus,Public,No,0.7428,14824,NULL,46500,15000,0.6199,14824
+Oklahoma Baptist University,Private,No,0.6472,NULL,16267,40500,13156,0.5853,16267
+Oklahoma City University,Private,No,0.717,NULL,26838,42800,18367,0.6295,26838
+University of Oklahoma-Norman Campus,Public,No,0.74,19254,NULL,51100,15892,0.6727,19254
+Oral Roberts University,Private,No,0.9334,NULL,19035,37600,18500,0.5653,19035
+Rogers State University,Public,No,NULL,13839,NULL,34000,9500,0.166,13839
+Southeastern Oklahoma State University,Public,No,0.724,8253,NULL,35800,10250,0.2735,8253
+Southwestern Christian University,Private,No,0.7704,NULL,11925,29300,12000,0.2521,11925
+Southwestern Oklahoma State University,Public,No,0.9197,12002,NULL,39300,9692,0.3077,12002
+University of Tulsa,Private,No,0.3895,NULL,23948,48500,16000,0.6852,23948
+Concordia University-Portland,Private,No,0.4864,NULL,21765,43300,12000,0.4762,21765
+Eastern Oregon University,Public,No,0.9773,14529,NULL,41200,14527,0.3072,14529
+George Fox University,Private,No,0.8189,NULL,28366,45100,19500,0.7168,28366
+Lewis & Clark College,Private,No,0.7137,NULL,34838,46200,17480,0.8007,34838
+Multnomah University,Private,No,0.6507,NULL,24630,34100,14988,0.3167,24630
+Northwest Christian University,Private,No,0.688,NULL,19277,43100,15000,0.5536,19277
+Oregon Institute of Technology,Public,No,0.6142,17041,NULL,56600,15452,0.4497,17041
+Oregon College of Art and Craft,Private,No,0.9737,NULL,26654,25100,12500,0.5455,26654
+Oregon State University,Public,No,0.7884,20493,NULL,49600,17000,0.6534,20493
+University of Oregon,Public,No,0.8281,15693,NULL,44800,15895,0.72,15693
+Pacific Northwest College of Art,Private,No,0.9474,NULL,32541,27400,16517,0.3067,32541
+Pacific University,Private,No,0.8449,NULL,29902,46600,18907,0.6444,29902
+Portland State University,Public,No,0.9244,14160,NULL,44700,16500,0.4894,14160
+University of Portland,Private,No,0.6954,NULL,33239,58800,20500,0.8153,33239
+Reed College,Private,No,0.3563,NULL,31815,42200,11298,0.7984,31815
+Southern Oregon University,Public,No,0.7848,9164,NULL,39000,14499,0.3785,9164
+Warner Pacific University,Private,No,0.9532,NULL,21780,41000,23000,0.3854,21780
+Corban University,Private,No,0.3299,NULL,24491,37600,18575,0.4982,24491
+Willamette University,Private,No,0.8909,NULL,28327,51100,19500,0.731,28327
+Western Oregon University,Public,No,0.8059,16875,NULL,39700,15000,0.4351,16875
+Albright College,Private,No,0.5004,NULL,23258,46700,23734,0.5318,23258
+DeSales University,Private,No,0.7379,NULL,27745,49700,19165,0.7011,27745
+Alvernia University,Private,No,0.7081,NULL,26359,44500,22700,0.5984,26359
+Clarks Summit University,Private,No,0.5508,NULL,18011,32000,13094,0.6486,18011
+Arcadia University,Private,No,0.6229,NULL,25917,44100,22847,0.6627,25917
+Bloomsburg University of Pennsylvania,Public,No,0.7325,18796,NULL,44500,19500,0.5804,18796
+Bryn Mawr College,Private,No,0.3801,NULL,25672,54600,21395,0.8338,25672
+Bucknell University,Private,No,0.3108,NULL,40976,70800,23250,0.9039,40976
+Cabrini University,Private,No,0.7321,NULL,24169,46600,17705,0.5754,24169
+California University of Pennsylvania,Public,No,0.961,19677,NULL,41600,18250,0.5157,19677
+Carlow University,Private,No,0.9164,NULL,17127,39700,20600,0.5708,17127
+Carnegie Mellon University,Private,No,0.222,NULL,31102,83600,21500,0.8884,31102
+Cedar Crest College,Private,No,0.6333,NULL,21060,46700,21000,0.5043,21060
+Central Penn College,Private,Yes,0.789,NULL,18889,35300,12667,0.4474,18889
+Chatham University,Private,No,0.5455,NULL,20906,36600,14500,0.6308,20906
+Chestnut Hill College,Private,No,0.9572,NULL,22397,43600,20835,0.55,22397
+Cheyney University of Pennsylvania,Public,No,NULL,15425,NULL,29400,15000,0.2562,15425
+Clarion University of Pennsylvania,Public,No,0.9549,19409,NULL,37900,19500,0.5033,19409
+Delaware Valley University,Private,No,0.664,NULL,29674,42100,18233,0.559,29674
+Drexel University,Private,No,0.7904,NULL,37427,68800,20750,0.709,37427
+Duquesne University,Private,No,0.717,NULL,28961,58500,24247,0.8032,28961
+East Stroudsburg University of Pennsylvania,Public,No,0.8356,17536,NULL,44600,15000,0.4814,17536
+Eastern University,Private,No,0.6561,NULL,22257,42500,19125,0.6349,22257
+Edinboro University of Pennsylvania,Public,No,0.9253,16085,NULL,35400,18480,0.4298,16085
+Elizabethtown College,Private,No,0.7402,NULL,28227,51300,25651,0.7456,28227
+Gannon University,Private,No,0.799,NULL,21806,48100,25000,0.6815,21806
+Geneva College,Private,No,0.6901,NULL,19914,38700,19500,0.6859,19914
+Gwynedd Mercy University,Private,No,0.9377,NULL,23564,54300,20387,0.4932,23564
+Holy Family University,Private,No,0.7075,NULL,15323,52700,20000,0.5521,15323
+Immaculata University,Private,No,0.8294,NULL,31971,50600,21724,0.6204,31971
+Indiana University of Pennsylvania-Main Campus,Public,No,0.9082,20761,NULL,40800,20500,0.5585,20761
+Juniata College,Private,No,0.7077,NULL,24795,49200,26803,0.8375,24795
+Keystone College,Private,No,0.944,NULL,19609,33100,18487,0.3884,19609
+King's College,Private,No,0.7092,NULL,25898,51000,20500,0.6673,25898
+Kutztown University of Pennsylvania,Public,No,0.8314,20789,NULL,41600,19125,0.5305,20789
+La Roche University,Private,No,0.9657,NULL,20792,40400,19000,0.5038,20792
+La Salle University,Private,No,0.7927,NULL,25937,58000,19500,0.6695,25937
+Lancaster Bible College,Private,No,0.7181,NULL,21145,34300,13741,0.5702,21145
+Lebanon Valley College,Private,No,0.73,NULL,27287,45800,23460,0.7323,27287
+Lehigh University,Private,No,0.2515,NULL,34212,81900,21000,0.8579,34212
+Lincoln University,Public,No,0.7968,18769,NULL,34600,19500,0.4623,18769
+Lock Haven University,Public,No,0.8904,19034,NULL,41500,19500,0.5472,19034
+Mansfield University of Pennsylvania,Public,No,0.8919,21004,NULL,38600,20000,0.4992,21004
+Marywood University,Private,No,0.7512,NULL,23541,39600,24500,0.6864,23541
+Mercyhurst University,Private,No,0.6992,NULL,19898,40300,17076,0.6831,19898
+Messiah College,Private,No,0.7701,NULL,27200,45100,21250,0.8052,27200
+Millersville University of Pennsylvania,Public,No,0.7949,22032,NULL,43500,17150,0.6155,22032
+Misericordia University,Private,No,0.7879,NULL,25561,50400,23250,0.7609,25561
+Moore College of Art and Design,Private,No,0.5407,NULL,33969,33300,21990,0.5652,33969
+Moravian College,Private,No,0.7597,NULL,26838,51100,21500,0.631,26838
+Mount Aloysius College,Private,No,0.6087,NULL,21940,40800,18500,0.4337,21940
+Neumann University,Private,No,0.9628,NULL,22583,44300,24176,0.5664,22583
+Pennsylvania State University-Penn State Erie-Behrend College,Public,No,0.8891,24477,NULL,50100,19500,0.6518,24477
+Pennsylvania State University-Penn State Lehigh Valley,Public,No,0.8534,14178,NULL,50100,19500,0.5455,14178
+Pennsylvania State University-Penn State Harrisburg,Public,No,0.8375,21974,NULL,50100,19500,0.581,21974
+Pennsylvania State University-Main Campus,Public,No,0.5031,30373,NULL,50100,19500,0.8481,30373
+Pennsylvania State University-Penn State York,Public,No,0.825,16123,NULL,50100,19500,0.5683,16123
+Peirce College,Private,No,NULL,NULL,8303,46500,18475,0.2083,8303
+Pennsylvania Academy of the Fine Arts,Private,No,0.927,NULL,36790,20200,19500,0.5714,36790
+University of Pennsylvania,Private,No,0.093,NULL,24242,85900,17085,0.9572,24242
+The University of the Arts,Private,No,0.7404,NULL,36721,32600,24390,0.6296,36721
+Cairn University-Langhorne,Private,No,0.9855,NULL,18776,34800,22616,0.6048,18776
+University of the Sciences,Private,No,0.6076,NULL,31454,91600,26999,0.7267,31454
+University of Pittsburgh-Pittsburgh Campus,Public,No,0.5971,28331,NULL,53900,20500,0.8249,28331
+Point Park University,Private,No,0.6486,NULL,19494,37100,21500,0.5471,19494
+Robert Morris University,Private,No,0.8332,NULL,25996,47700,22617,0.6069,25996
+Rosemont College,Private,No,0.6961,NULL,19151,44700,17750,0.6132,19151
+Saint Francis University,Private,No,0.7574,NULL,26040,52200,27000,0.6357,26040
+Saint Joseph's University,Private,No,0.7718,NULL,33546,59600,20250,0.8196,33546
+Saint Vincent College,Private,No,0.6193,NULL,20909,47600,24250,0.6919,20909
+University of Scranton,Private,No,0.7479,NULL,35298,57500,25949,0.7686,35298
+Seton Hill University,Private,No,0.7465,NULL,24515,40200,23250,0.5815,24515
+Shippensburg University of Pennsylvania,Public,No,0.8355,21714,NULL,45000,18500,0.5152,21714
+Slippery Rock University of Pennsylvania,Public,No,0.7149,18921,NULL,41700,19500,0.6605,18921
+Temple University,Public,No,0.5667,23366,NULL,50500,20149,0.7102,23366
+University of Valley Forge,Private,No,0.5321,NULL,21369,31100,19000,0.4491,21369
+Villanova University,Private,No,0.36,NULL,41849,77900,25000,0.903,41849
+Waynesburg University,Private,No,0.9534,NULL,19258,45300,22500,0.665,19258
+West Chester University of Pennsylvania,Public,No,0.685,22193,NULL,48400,19000,0.726,22193
+Westminster College,Private,No,0.7248,NULL,21618,43200,21375,0.6953,21618
+Widener University,Private,No,0.6543,NULL,30017,53400,20834,0.5709,30017
+Wilkes University,Private,No,0.7531,NULL,25852,51600,20101,0.5974,25852
+Wilson College,Private,No,0.5877,NULL,19743,33100,16200,0.5147,19743
+York College of Pennsylvania,Private,No,0.699,NULL,20779,50400,21250,0.5674,20779
+Brown University,Private,No,0.0849,NULL,30205,67500,14500,0.9514,30205
+Bryant University,Private,No,0.7298,NULL,37452,69300,25000,0.7906,37452
+Johnson & Wales University-Providence,Private,No,0.8753,NULL,25874,38800,15250,0.6335,25874
+New England Institute of Technology,Private,No,NULL,NULL,31422,42800,14165,0.5241,31422
+Providence College,Private,No,0.5152,NULL,38823,64100,27000,0.8422,38823
+Rhode Island College,Public,No,0.7359,10366,NULL,41400,14477,0.4619,10366
+University of Rhode Island,Public,No,0.7006,19431,NULL,52900,18500,0.656,19431
+Rhode Island School of Design,Private,No,0.3193,NULL,46277,51100,25000,0.9115,46277
+Roger Williams University,Private,No,0.8229,NULL,35333,50500,19500,0.6472,35333
+Salve Regina University,Private,No,0.7189,NULL,28368,53500,26717,0.709,28368
+Northpoint Bible College,Private,No,NULL,NULL,23024,30300,13257,0.7,23024
+Anderson University,Private,No,0.7907,NULL,21439,35200,19250,0.5673,21439
+Charleston Southern University,Private,No,0.5632,NULL,17297,36900,16500,0.3484,17297
+Southern Wesleyan University,Private,No,0.5257,NULL,16130,39200,17891,0.438,16130
+College of Charleston,Public,No,0.8045,19311,NULL,40700,15750,0.6921,19311
+Citadel Military College of South Carolina,Public,No,0.8107,17935,NULL,56800,18594,0.7343,17935
+Claflin University,Private,No,0.4117,NULL,19962,28500,22750,0.5319,19962
+Clemson University,Public,No,0.4718,17696,NULL,52400,19250,0.821,17696
+Coker College,Private,No,0.617,NULL,15872,32800,16000,0.466,15872
+Columbia International University,Private,No,0.2825,NULL,18191,29900,15000,0.6707,18191
+Columbia College,Private,No,0.8682,NULL,18340,34600,15000,0.4922,18340
+Converse College,Private,No,0.7126,NULL,21556,33900,17375,0.7208,21556
+Erskine College,Private,No,0.5452,NULL,33408,37400,12375,0.5951,33408
+Francis Marion University,Public,No,0.6005,12619,NULL,33100,18750,0.3733,12619
+Furman,Private,No,0.6118,NULL,28057,51200,19500,0.8051,28057
+Lander University,Public,No,0.4757,14508,NULL,34200,12463,0.4235,14508
+Limestone College,Private,No,0.5045,NULL,24073,37400,16000,0.4336,24073
+North Greenville University,Private,No,0.6085,NULL,26450,34400,13000,0.5112,26450
+Presbyterian College,Private,No,0.6517,NULL,19774,44500,18600,0.6852,19774
+University of South Carolina-Aiken,Public,No,0.5294,14927,NULL,37100,14000,0.4073,14927
+University of South Carolina-Columbia,Public,No,0.7231,19519,NULL,44900,19000,0.7502,19519
+Coastal Carolina University,Public,No,0.6119,16337,NULL,38500,15415,0.4229,16337
+South Carolina State University,Public,No,0.7826,21795,NULL,29800,19874,0.3598,21795
+University of South Carolina-Upstate,Public,No,0.5784,14896,NULL,36900,15000,0.4328,14896
+Winthrop University,Public,No,0.7339,17274,NULL,35900,20250,0.5707,17274
+Augustana University,Private,No,0.678,NULL,18514,43700,22330,0.7103,18514
+Black Hills State University,Public,No,0.8695,15839,NULL,35900,12500,0.3532,15839
+Dakota State University,Public,No,0.8436,16940,NULL,38700,13105,0.3605,16940
+Dakota Wesleyan University,Private,No,0.7604,NULL,20336,37200,18546,0.5155,20336
+Mount Marty College,Private,No,0.6652,NULL,20396,36600,17500,0.5862,20396
+Northern State University,Public,No,0.8783,14821,NULL,35300,16795,0.4512,14821
+South Dakota School of Mines and Technology,Public,No,0.8339,19759,NULL,56500,18500,0.5074,19759
+South Dakota State University,Public,No,0.9137,19415,NULL,44400,15000,0.5492,19415
+University of Sioux Falls,Private,No,0.9201,NULL,20014,40100,16500,0.4944,20014
+University of South Dakota,Public,No,0.8691,17359,NULL,42000,16879,0.5519,17359
+Austin Peay State University,Public,No,0.9013,12619,NULL,34900,12500,0.3752,12619
+Belmont University,Private,No,0.8119,NULL,34819,44100,17500,0.6962,34819
+Bethel University,Private,No,0.9359,NULL,14294,38600,17250,0.2715,14294
+Bryan College-Dayton,Private,No,0.5434,NULL,15532,41300,12000,0.4638,15532
+Carson-Newman University,Private,No,0.6736,NULL,18003,36000,13000,0.4574,18003
+Christian Brothers University,Private,No,0.5263,NULL,9468,44200,19184,0.4332,9468
+Cumberland University,Private,No,0.5408,NULL,21318,38700,14000,0.4974,21318
+Lipscomb University,Private,No,0.6043,NULL,24279,43200,15750,0.592,24279
+East Tennessee State University,Public,No,0.8547,14218,NULL,35100,14025,0.4116,14218
+Fisk University,Private,No,0.4541,NULL,28362,35000,24155,0.5172,28362
+Welch College,Private,No,NULL,NULL,20871,30100,12000,0.4808,20871
+Freed-Hardeman University,Private,No,0.9532,NULL,17308,37100,18750,0.5469,17308
+Johnson University,Private,No,0.9798,NULL,15663,29800,16370,0.6282,15663
+King University,Private,No,0.5141,NULL,18317,43500,18431,0.5202,18317
+South College,Private,Yes,NULL,NULL,23907,26700,9500,0.3906,23907
+Lee University,Private,No,0.8504,NULL,18168,34200,17500,0.5195,18168
+Lincoln Memorial University,Private,No,0.6534,NULL,18466,38200,14495,0.461,18466
+Martin Methodist College,Private,No,0.987,NULL,19320,32700,12000,0.3384,19320
+Memphis College of Art,Private,No,0.5404,NULL,32368,27100,18519,0.4681,32368
+University of Memphis,Public,No,0.8482,13921,NULL,37400,16750,0.4321,13921
+Middle Tennessee State University,Public,No,0.5935,12416,NULL,38700,15000,0.4401,12416
+Rhodes College,Private,No,0.5105,NULL,25629,53600,19500,0.8279,25629
+The University of the South,Private,No,0.4673,NULL,27544,45500,15000,0.7731,27544
+Southern Adventist University,Private,No,NULL,NULL,20762,38500,20000,0.5235,20762
+Tennessee Wesleyan University,Private,No,0.5991,NULL,5815,38500,14704,0.3981,5815
+The University of Tennessee-Chattanooga,Public,No,0.8279,14892,NULL,38100,13000,0.4517,14892
+The University of Tennessee-Knoxville,Public,No,0.7697,19335,NULL,45100,15000,0.7023,19335
+The University of Tennessee-Martin,Public,No,0.6151,10358,NULL,36200,15644,0.5023,10358
+Tennessee State University,Public,No,NULL,11083,NULL,35300,15000,0.2879,11083
+Tennessee Technological University,Public,No,0.644,14410,NULL,40500,12500,0.4941,14410
+Trevecca Nazarene University,Private,No,0.7038,NULL,18549,40500,13000,0.5382,18549
+Tusculum University,Private,No,0.8864,NULL,16774,38300,16750,0.3344,16774
+Union University,Private,No,0.5998,NULL,22839,43200,20750,0.6844,22839
+Vanderbilt University,Private,No,0.1085,NULL,19959,69000,13000,0.9172,19959
+Abilene Christian University,Private,No,0.5806,NULL,26037,43000,16000,0.6148,26037
+Angelo State University,Public,No,0.7359,13144,NULL,40200,11000,0.3658,13144
+Arlington Baptist University,Private,No,NULL,NULL,17892,32700,13625,0.22,17892
+Austin College,Private,No,0.5216,NULL,21008,48200,17500,0.6732,21008
+Baylor University,Private,No,0.3895,NULL,34898,51600,19500,0.7659,34898
+Concordia University Texas,Private,No,0.8878,NULL,23030,44500,14251,0.3494,23030
+Texas A & M University-Corpus Christi,Public,No,0.6046,16159,NULL,43400,12000,0.3625,16159
+Dallas Baptist University,Private,No,0.3942,NULL,25334,43200,16000,0.5786,25334
+University of Dallas,Private,No,0.4745,NULL,23663,47400,18998,0.6819,23663
+East Texas Baptist University,Private,No,0.5442,NULL,19841,40500,11660,0.31,19841
+Texas A&M University-Texarkana,Public,No,0.5385,11780,NULL,35900,11005,0.2967,11780
+Texas A & M University-Commerce,Public,No,0.3454,11704,NULL,39300,14683,0.4168,11704
+Miami International University of Art & Design-Art Institute Dallas,Private,Yes,NULL,NULL,21698,33400,12667,0.2205,21698
+Hallmark University,Private,No,0.3865,NULL,11360,32600,16483,0.5321,11360
+Hardin-Simmons University,Private,No,0.8177,NULL,29845,43300,15750,0.5102,29845
+Houston Baptist University,Private,No,0.6901,NULL,20852,45800,13055,0.4819,20852
+University of Houston-Downtown,Public,No,0.8408,8950,NULL,45000,15000,0.2076,8950
+University of Houston-Victoria,Public,No,0.4881,10615,NULL,41800,13124,0.1838,10615
+University of Houston,Public,No,0.6111,16392,NULL,51600,13500,0.5368,16392
+Howard Payne University,Private,No,0.5917,NULL,22137,37600,10575,0.4143,22137
+Huston-Tillotson University,Private,No,0.2981,NULL,17384,30800,17500,0.2265,17384
+University of the Incarnate Word,Private,No,0.9385,NULL,21431,46500,23000,0.5342,21431
+Lamar University,Public,No,0.8165,12941,NULL,39500,12500,0.2964,12941
+Texas A & M International University,Public,No,0.4959,4884,NULL,45800,10500,0.4365,4884
+LeTourneau University,Private,No,0.4708,NULL,21381,48200,20000,0.6021,21381
+Lubbock Christian University,Private,No,0.9407,NULL,22393,41800,14825,0.4673,22393
+University of Mary Hardin-Baylor,Private,No,0.7884,NULL,23966,44200,18500,0.4833,23966
+McMurry University,Private,No,0.4335,NULL,22429,41000,12500,0.3636,22429
+Midwestern State University,Public,No,0.814,10451,NULL,41100,13750,0.4455,10451
+University of North Texas,Public,No,0.7241,13832,NULL,45000,14000,0.5431,13832
+Our Lady of the Lake University,Private,No,0.913,NULL,17640,39300,18808,0.3827,17640
+The University of Texas Rio Grande Valley,Public,No,0.8048,3901,NULL,41900,9125,0.4481,3901
+Prairie View A & M University,Public,No,0.7893,11090,NULL,35700,17749,0.3479,11090
+Rice University,Private,No,0.1586,NULL,20237,65400,10250,0.9144,20237
+Saint Edward's University,Private,No,0.8418,NULL,22968,46500,19988,0.6359,22968
+University of St Thomas,Private,No,0.8094,NULL,17309,49600,16750,0.5726,17309
+Sam Houston State University,Public,No,0.7439,13560,NULL,44600,16069,0.5127,13560
+Schreiner University,Private,No,0.9236,NULL,18204,40200,14250,0.4764,18204
+St. Mary's University,Private,No,0.799,NULL,17522,46600,19500,0.6279,17522
+Southern Methodist University,Private,No,0.4877,NULL,32190,60700,17125,0.8054,32190
+Southwestern Assemblies of God University,Private,No,0.2788,NULL,24909,35700,15000,0.4444,24909
+Stephen F Austin State University,Public,No,0.6543,13057,NULL,41900,17000,0.4377,13057
+Texas State University,Public,No,0.7298,15545,NULL,45700,14415,0.5394,15545
+Southwestern Adventist University,Private,No,0.6237,NULL,20553,41500,19500,0.3701,20553
+Sul Ross State University,Public,No,0.9963,12761,NULL,37900,10196,0.2222,12761
+Tarleton State University,Public,No,0.5038,17576,NULL,42500,13750,0.4635,17576
+Texas A & M University-Kingsville,Public,No,0.8413,13188,NULL,42600,14250,0.3474,13188
+Texas A & M University-College Station,Public,No,0.7054,20282,NULL,58000,15000,0.821,20282
+The University of Texas at Arlington,Public,No,0.7122,13200,NULL,48700,12500,0.4998,13200
+The University of Texas at Austin,Public,No,0.3649,16960,NULL,58200,18118,0.8285,16960
+The University of Texas at Dallas,Public,No,0.7603,14763,NULL,53100,13250,0.6917,14763
+The University of Texas at El Paso,Public,No,1,8135,NULL,40000,11774,0.4064,8135
+The University of Texas at Tyler,Public,No,0.6499,13363,NULL,44200,12500,0.4241,13363
+Texas Christian University,Private,No,0.4108,NULL,35429,52800,17934,0.8262,35429
+Texas Lutheran University,Private,No,0.4853,NULL,19103,45600,13000,0.5151,19103
+The University of Texas of the Permian Basin,Public,No,0.8946,10117,NULL,46100,10000,0.4259,10117
+The University of Texas at San Antonio,Public,No,0.7946,12745,NULL,45300,14398,0.3666,12745
+Texas Southern University,Public,No,0.6666,19676,NULL,31300,14250,0.2337,19676
+Texas Tech University,Public,No,0.6918,17134,NULL,51400,15154,0.5928,17134
+Texas Wesleyan University,Private,No,0.3427,NULL,28325,42000,12500,0.3457,28325
+Texas Woman's University,Public,No,0.8571,9493,NULL,44700,14842,0.3551,9493
+Trinity University,Private,No,0.3844,NULL,23144,54900,19500,0.7972,23144
+Wayland Baptist University,Private,No,0.9876,NULL,19137,41300,13420,0.2006,19137
+West Texas A & M University,Public,No,0.6136,14916,NULL,42700,13008,0.4057,14916
+Brigham Young University-Provo,Private,No,0.524,NULL,12974,59700,9000,0.827,12974
+Broadview University-West Jordan,Private,Yes,NULL,NULL,21484,28100,8332,0,21484
+Southern Utah University,Public,No,0.758,14376,NULL,39800,7364,0.4677,14376
+Utah State University,Public,No,0.8908,13279,NULL,43200,8750,0.4978,13279
+Utah Valley University,Public,No,NULL,7995,NULL,43800,9000,0.298,7995
+University of Utah,Public,No,0.6615,13728,NULL,53000,13200,0.674,13728
+Weber State University,Public,No,NULL,12061,NULL,44500,9500,0.3349,12061
+Westminster College,Private,No,0.9271,NULL,20826,49800,16750,0.6185,20826
+Bennington College,Private,No,0.5659,NULL,29815,29500,18500,0.6745,29815
+Castleton University,Public,No,0.8154,17215,NULL,37900,18500,0.5418,17215
+Champlain College,Private,No,0.7504,NULL,34833,45400,17500,0.6045,34833
+Goddard College,Private,No,1,NULL,20392,25400,18222,0.4286,20392
+Green Mountain College,Private,No,0.7829,NULL,22524,30300,17500,0.5071,22524
+Northern Vermont University,Public,No,0.8695,15018,NULL,33200,13500,0.3782,15018
+Middlebury College,Private,No,0.171,NULL,26075,58200,12000,0.9452,26075
+Norwich University,Private,No,0.6453,NULL,22438,53700,15150,0.5911,22438
+Saint Michael's College,Private,No,0.851,NULL,30142,50800,24213,0.7841,30142
+College of St Joseph,Private,No,0.5411,NULL,17891,36700,13524,0.3171,17891
+University of Vermont,Public,No,0.672,18877,NULL,47300,17352,0.7495,18877
+Averett University,Private,No,0.6102,NULL,20938,41800,17750,0.4048,20938
+Bluefield College,Private,No,0.9112,NULL,21785,40900,12500,0.2053,21785
+College of William and Mary,Public,No,0.3592,19720,NULL,58500,16395,0.921,19720
+Regent University,Private,No,0.783,NULL,17842,41600,9500,0.6087,17842
+Christopher Newport University,Public,No,0.7239,22351,NULL,46900,21000,0.7454,22351
+Jefferson College of Health Sciences,Private,No,0.3922,NULL,29899,54000,18250,0.4571,29899
+Emory & Henry College,Private,No,0.7223,NULL,19340,40700,18846,0.5182,19340
+Eastern Mennonite University,Private,No,0.5373,NULL,23343,40300,15761,0.6325,23343
+George Mason University,Public,No,0.8132,19779,NULL,59900,16750,0.7086,19779
+Hampton University,Private,No,0.362,NULL,26458,44700,16250,0.5556,26458
+Hollins University,Private,No,0.4838,NULL,19456,35400,19566,0.6209,19456
+James Madison University,Public,No,0.752,20204,NULL,56600,17419,0.8258,20204
+Liberty University,Private,No,0.2979,NULL,27573,36700,17500,0.4697,27573
+Longwood University,Public,No,0.9183,20437,NULL,41500,17504,0.6832,20437
+University of Lynchburg,Private,No,0.7455,NULL,22420,43600,21745,0.5881,22420
+Mary Baldwin University,Private,No,0.947,NULL,17850,37200,18993,0.452,17850
+University of Mary Washington,Public,No,0.735,21227,NULL,51400,15000,0.7065,21227
+Marymount University,Private,No,0.9226,NULL,24314,53600,19500,0.5348,24314
+American National University,Private,Yes,NULL,NULL,18946,21000,9815,0.4101,18946
+Norfolk State University,Public,No,0.9013,15259,NULL,35800,20695,0.4205,15259
+Old Dominion University,Public,No,0.8572,15368,NULL,43700,17500,0.544,15368
+Radford University,Public,No,0.7432,16743,NULL,43000,16000,0.5517,16743
+Randolph College,Private,No,0.8644,NULL,25614,39700,17500,0.5876,25614
+University of Richmond,Private,No,0.3297,NULL,26264,64500,19000,0.8821,26264
+Shenandoah University,Private,No,0.8325,NULL,29280,45800,20500,0.6327,29280
+Strayer University-Virginia,Private,Yes,NULL,NULL,24289,45900,12667,0.1143,24289
+Sweet Briar College,Private,No,0.928,NULL,21291,38200,20500,0.5412,21291
+Virginia Polytechnic Institute and State University,Public,No,0.7006,20343,NULL,62500,20500,0.844,20343
+Virginia Commonwealth University,Public,No,0.839,21655,NULL,44000,18750,0.6255,21655
+University of Virginia-Main Campus,Public,No,0.2735,20547,NULL,61200,15500,0.9458,20547
+Virginia State University,Public,No,0.9111,15063,NULL,35200,19416,0.4212,15063
+Virginia Union University,Private,No,0.4392,NULL,21073,32000,17333,0.2657,21073
+Washington and Lee University,Private,No,0.22,NULL,25961,76100,18500,0.9189,25961
+Central Washington University,Public,No,0.8634,14382,NULL,46500,13406,0.5154,14382
+Eastern Washington University,Public,No,0.962,12885,NULL,43100,14893,0.5245,12885
+The Evergreen State College,Public,No,0.9628,12147,NULL,33200,12500,0.5728,12147
+Gonzaga University,Private,No,0.6485,NULL,32623,56100,21250,0.8726,32623
+Heritage University,Private,No,NULL,NULL,10234,35900,12809,0.2252,10234
+Northwest University,Private,No,0.9744,NULL,21802,41300,13000,0.5886,21802
+Pacific Lutheran University,Private,No,0.7539,NULL,24034,49400,19542,0.7045,24034
+University of Puget Sound,Private,No,0.8387,NULL,37074,52700,19500,0.7807,37074
+Saint Martin's University,Private,No,0.9751,NULL,21416,47800,17187,0.5913,21416
+Seattle Pacific University,Private,No,0.9087,NULL,30299,49100,19187,0.6868,30299
+Seattle University,Private,No,0.738,NULL,35006,56500,18822,0.7483,35006
+Walla Walla University,Private,No,NULL,NULL,23106,46400,21000,0.612,23106
+Washington State University,Public,No,0.7306,16314,NULL,50600,14750,0.6244,16314
+University of Washington-Seattle Campus,Public,No,0.4642,12037,NULL,57700,12750,0.8439,12037
+Western Washington University,Public,No,0.8479,16220,NULL,45800,14784,0.6904,16220
+Whitworth University,Private,No,0.8901,NULL,28229,42100,21000,0.7495,28229
+Alderson Broaddus University,Private,No,0.4063,NULL,17835,40400,14000,0.4745,17835
+Appalachian Bible College,Private,No,0.5895,NULL,15471,26700,8750,0.5652,15471
+Bethany College,Private,No,0.9404,NULL,20337,40400,20497,0.4579,20337
+University of Charleston,Private,No,0.6449,NULL,14138,40800,12000,0.4939,14138
+Concord University,Public,No,0.9019,8937,NULL,32300,11000,0.346,8937
+Fairmont State University,Public,No,0.7061,10379,NULL,33000,12500,0.366,10379
+Marshall University,Public,No,0.9019,9484,NULL,35600,15250,0.493,9484
+Ohio Valley University,Private,No,0.2859,NULL,17061,37200,12000,0.2973,17061
+Salem University,Private,Yes,NULL,NULL,20074,28900,9337,0.2209,20074
+Shepherd University,Public,No,0.8913,9908,NULL,39700,15000,0.4202,9908
+West Virginia State University,Public,No,0.9758,8976,NULL,29800,12100,0.2628,8976
+West Liberty University,Public,No,0.7176,13339,NULL,36400,16000,0.4789,13339
+West Virginia Wesleyan College,Private,No,0.7064,NULL,18232,43600,19136,0.4963,18232
+West Virginia University,Public,No,0.719,11825,NULL,45800,14708,0.5676,11825
+Wheeling Jesuit University,Private,No,0.514,NULL,17638,46200,17910,0.6359,17638
+Alverno College,Private,No,0.8941,NULL,17753,38800,24183,0.4508,17753
+Madison Area Technical College,Public,No,NULL,11290,NULL,36500,9471,0.2141,11290
+Bellin College,Private,No,0.8889,NULL,25881,58600,15000,0.6667,25881
+Cardinal Stritch University,Private,No,0.7835,NULL,17199,48500,24490,0.4453,17199
+Carroll University,Private,No,0.7082,NULL,22736,44200,23000,0.6581,22736
+Carthage College,Private,No,0.6787,NULL,26532,44700,19500,0.5979,26532
+Concordia University-Wisconsin,Private,No,0.6319,NULL,25457,42800,19500,0.5348,25457
+Edgewood College,Private,No,0.7111,NULL,24228,43300,20000,0.6088,24228
+Lakeland University,Private,No,0.5166,NULL,20281,42800,19200,0.592,20281
+Maranatha Baptist University,Private,No,0.73,NULL,18300,33000,12000,0.5047,18300
+Marian University,Private,No,0.6758,NULL,22346,41700,16743,0.4781,22346
+Marquette University,Private,No,0.8933,NULL,29120,62600,21261,0.8031,29120
+Milwaukee School of Engineering,Private,No,0.6284,NULL,21328,71300,25000,0.6689,21328
+Mount Mary University,Private,No,0.5599,NULL,19156,40000,19750,0.386,19156
+Saint Norbert College,Private,No,0.7922,NULL,24930,46400,21500,0.7365,24930
+Silver Lake College of the Holy Family,Private,No,0.5154,NULL,20229,37600,13500,0.587,20229
+Viterbo University,Private,No,0.6145,NULL,19421,43200,20500,0.5503,19421
+University of Wisconsin-Whitewater,Public,No,0.7035,14310,NULL,42600,18250,0.6167,14310
+University of Wisconsin-Eau Claire,Public,No,0.7567,16188,NULL,46200,15063,0.6656,16188
+University of Wisconsin-Green Bay,Public,No,0.7553,14443,NULL,40800,13000,0.5109,14443
+University of Wisconsin-La Crosse,Public,No,0.7337,14424,NULL,48000,17500,0.7055,14424
+Wisconsin Lutheran College,Private,No,0.9025,NULL,20073,41300,19208,0.6654,20073
+University of Wisconsin-Oshkosh,Public,No,0.6309,15307,NULL,42700,16750,0.5234,15307
+University of Wisconsin-Parkside,Public,No,0.6077,10849,NULL,39900,14000,0.3402,10849
+Herzing University-Madison,Private,No,0.828,NULL,23304,37800,12695,0.2275,23304
+University of Wisconsin-Stout,Public,No,0.8718,15679,NULL,45100,15750,0.5425,15679
+University of Wisconsin-Superior,Public,No,0.7618,13023,NULL,36700,15250,0.434,13023
+University of Wisconsin-Madison,Public,No,0.5381,19880,NULL,56200,18750,0.8723,19880
+University of Wisconsin-Milwaukee,Public,No,0.7248,16650,NULL,44200,16534,0.4148,16650
+University of Wisconsin-Platteville,Public,No,0.7971,15237,NULL,47300,16500,0.5283,15237
+University of Wisconsin-River Falls,Public,No,0.7452,14553,NULL,40900,14250,0.5291,14553
+University of Wisconsin-Stevens Point,Public,No,0.8356,14005,NULL,40200,15760,0.6502,14005
+University of Wyoming,Public,No,0.9682,13070,NULL,47300,12500,0.582,13070
+University of Guam,Public,No,NULL,8899,NULL,30100,12000,0.3451,8899
+American University of Puerto Rico,Private,No,NULL,NULL,10768,21700,3850,0.2682,10768
+American University of Puerto Rico,Private,No,NULL,NULL,11489,21700,3850,0.323,11489
+Universidad Adventista de las Antillas,Private,No,0.9635,NULL,7927,20300,10850,0.3744,7927
+Atlantic University College,Private,No,NULL,NULL,4266,20100,3600,0.2881,4266
+Universidad Central de Bayamon,Private,No,0.8685,NULL,6847,19600,6750,0.1629,6847
+Caribbean University-Bayamon,Private,No,NULL,NULL,3170,18700,6000,0.2342,3170
+Caribbean University-Carolina,Private,No,NULL,NULL,4378,18700,6000,0.2086,4378
+Pontifical Catholic University of Puerto Rico-Arecibo,Private,No,0.9516,NULL,8465,18500,10092,0.3391,8465
+Pontifical Catholic University of Puerto Rico-Ponce,Private,No,0.9264,NULL,9947,18500,10092,0.3916,9947
+Universidad Teologica del Caribe,Private,No,NULL,NULL,6452,20200,8250,0.5,6452
+Universidad Ana G. Mendez-Cupey Campus,Private,No,NULL,NULL,8288,19400,8250,0.3289,8288
+Conservatory of Music of Puerto Rico,Public,No,0.6569,6758,NULL,15100,8500,0.5455,6758
+EDP University of Puerto Rico Inc-San Sebastian,Private,No,NULL,NULL,7982,18700,9500,0.03,7982
+Inter American University of Puerto Rico-San German,Private,No,0.6899,NULL,8819,19800,6000,0.4054,8819
+Inter American University of Puerto Rico-Aguadilla,Private,No,0.5735,NULL,7674,19800,5500,0.3093,7674
+Inter American University of Puerto Rico-Arecibo,Private,No,0.5755,NULL,8233,19800,5500,0.3783,8233
+Inter American University of Puerto Rico-Barranquitas,Private,No,0.561,NULL,7912,19800,2500,0.3857,7912
+Inter American University of Puerto Rico-Ponce,Private,No,0.592,NULL,7664,19800,4500,0.3975,7664
+Inter American University of Puerto Rico-Fajardo,Private,No,0.8116,NULL,8333,19800,5000,0.3481,8333
+Inter American University of Puerto Rico-Guayama,Private,No,0.4567,NULL,8138,19800,6500,0.2804,8138
+Inter American University of Puerto Rico-Bayamon,Private,No,0.6258,NULL,8119,19800,5500,0.3125,8119
+National University College,Private,Yes,0.5933,NULL,9500,17400,8475,0.2392,9500
+Universidad Ana G. Mendez-Carolina Campus,Private,No,NULL,NULL,8194,19600,6838,0.2813,8194
+Universidad del Sagrado Corazon,Private,No,0.4073,NULL,8820,20200,11250,0.36,8820
+Universidad Central Del Caribe,Private,No,0.7742,NULL,17538,29100,6000,0.4,17538
+Universidad Politecnica de Puerto Rico,Private,No,NULL,NULL,15047,29800,11000,0.249,15047
+Pontifical Catholic University of Puerto Rico-Mayaguez,Private,No,0.9885,NULL,8038,18500,10092,0.3237,8038
+Universidad Ana G. Mendez-Gurabo Campus,Private,No,NULL,NULL,8232,19700,7000,0.2755,8232
+University of the Virgin Islands,Public,No,0.9844,11968,NULL,32000,9321,0.22,11968
+Stanford University,Private,No,0.0473,NULL,13261,94000,10000,0.9425,13261
+Purdue University-Main Campus,Public,No,0.5747,13746,NULL,55100,15750,0.7836,13746
+EDP University of Puerto Rico Inc-San Juan,Private,No,0.8367,NULL,7238,18700,9500,0.3626,7238
+St. John's College,Private,No,0.6316,NULL,20605,33500,14750,0.6506,20605
+Mid-America Christian University,Private,No,NULL,NULL,16992,37700,12125,0.4891,16992
+ECPI University,Private,Yes,0.7129,NULL,20327,34600,13099,0.4741,20327
+South University-Columbia,Private,Yes,NULL,NULL,19577,33400,12667,0.1087,19577
+Purdue University Global-Davenport,Private,Yes,NULL,NULL,16904,33900,12500,0.3947,16904
+Caribbean University-Ponce,Private,No,NULL,NULL,4225,18700,6000,0.2216,4225
+Caribbean University-Vega Baja,Private,No,NULL,NULL,3967,18700,6000,0.1933,3967
+University of Advancing Technology,Private,Yes,0.8474,NULL,19713,46400,14250,0.1942,19713
+California State University-San Marcos,Public,No,0.5676,11029,NULL,47300,12500,0.5313,11029
+Argosy University-Hawaii,Private,Yes,NULL,NULL,17813,41400,15585,0,17813
+Purdue University Global-Des Moines,Private,Yes,NULL,NULL,21848,33900,12500,0.425,21848
+Hodges University,Private,No,0.5792,NULL,19746,37100,14250,0.2707,19746
+Argosy University-Atlanta,Private,Yes,NULL,NULL,20057,41400,15585,0.2857,20057
+University of Washington-Bothell Campus,Public,No,0.8011,8893,NULL,57700,12750,0.6362,8893
+University of Washington-Tacoma Campus,Public,No,0.8385,7953,NULL,57700,12750,0.5845,7953
+Pacific College of Oriental Medicine-San Diego,Private,Yes,NULL,NULL,22299,22600,12271,0.3333,22299
+University of Phoenix-Utah,Private,Yes,NULL,NULL,15063,47100,18500,0.141,15063
+University of the Potomac-Washington DC Campus,Private,Yes,NULL,NULL,20829,47600,13002,0.1458,20829
+Everglades University,Private,No,0.7344,NULL,27092,42100,21813,0.5063,27092
+Herzing University-Winter Park,Private,No,0.7609,NULL,20955,37800,12695,0.2917,20955
+Southwest University of Visual Arts-Albuquerque,Private,Yes,NULL,NULL,27755,30200,32875,0.6,27755
+University of Phoenix-New Mexico,Private,Yes,NULL,NULL,14010,47100,18500,0.1784,14010
+Arizona State University-West,Public,No,0.7965,8481,NULL,47700,14271,0.5772,8481
+Florida National University-Main Campus,Private,Yes,NULL,NULL,21127,23800,12498,0.6119,21127
+California State University-Monterey Bay,Public,No,0.532,11167,NULL,44800,11000,0.6016,11167
+Capella University,Private,Yes,NULL,NULL,15667,63600,10225,0,15667
+Pacific College of Oriental Medicine-New York,Private,Yes,NULL,NULL,28924,22600,12271,0.375,28924
+Trine University-Regional/Non-Traditional Campuses,Private,No,NULL,NULL,16645,43300,17750,0.2222,16645
+New York College of Health Professions,Private,No,NULL,NULL,20745,31400,16629,0.4355,20745
+University of Phoenix-Hawaii,Private,Yes,NULL,NULL,14752,47100,18500,0.2453,14752
+Virginia College-Birmingham,Private,Yes,NULL,NULL,29708,24600,11374,0.1561,29708
+Arizona State University-Polytechnic,Public,No,0.7628,11059,NULL,47700,14271,0.5906,11059
+Argosy University-Schaumburg,Private,Yes,NULL,NULL,21829,41400,15585,0,21829
+Embry-Riddle Aeronautical University-Worldwide,Private,No,0.6327,NULL,19648,66200,13750,0.2543,19648
+Argosy University-Tampa,Private,Yes,NULL,NULL,18378,41400,15585,0.5,18378
+Strayer University-Maryland,Private,Yes,NULL,NULL,23328,45900,12667,0.4737,23328
+New Hampshire Institute of Art,Private,No,0.9943,NULL,28458,25200,22250,0.4836,28458
+University of Phoenix-Washington,Private,Yes,NULL,NULL,13875,47100,18500,0.1495,13875
+California Aeronautical University,Private,Yes,NULL,NULL,17909,31600,12000,0.4571,17909
+Herzing University-Kenner,Private,No,0.8684,NULL,24494,37800,12695,0.25,24494
+Florida Gulf Coast University,Public,No,0.6426,15376,NULL,42100,12625,0.481,15376
+Argosy University-Phoenix,Private,Yes,NULL,NULL,20147,41400,15585,0.1667,20147
+Argosy University-Orange County,Private,Yes,NULL,NULL,23807,41400,15585,0.6,23807
+University of Connecticut-Waterbury Campus,Public,No,0.9588,8224,NULL,58400,19000,0.59,8224
+University of Connecticut-Avery Point,Public,No,0.9416,9617,NULL,58400,19000,0.5837,9617
+University of Connecticut-Stamford,Public,No,0.8232,7280,NULL,58400,19000,0.642,7280
+Stevens-Henager College,Private,No,NULL,NULL,29274,28800,9246,0.1025,29274
+Stratford University,Private,Yes,NULL,NULL,22565,35500,17139,0.0625,22565
+American InterContinental University-Atlanta,Private,Yes,NULL,NULL,19752,37300,9500,0.1405,19752
+Johnson & Wales University-Denver,Private,No,0.8397,NULL,23859,38800,15250,0.5693,23859
+The King's University,Private,No,0.519,NULL,22942,39100,16500,0.1538,22942
+Acupuncture and Massage College,Private,Yes,NULL,NULL,20324,24500,7600,0.65,20324
+California State University-Channel Islands,Public,No,0.7827,15491,NULL,49800,12500,0.5947,15491
+University of Phoenix-Illinois,Private,Yes,NULL,NULL,15258,47100,18500,0.1239,15258
+Argosy University-Dallas,Private,Yes,NULL,NULL,22555,41400,15585,0.1429,22555
+University of the Potomac-VA Campus,Private,Yes,NULL,NULL,19769,47600,13002,1,19769
+Pacific College of Oriental Medicine-Chicago,Private,Yes,NULL,NULL,25450,22600,12271,1,25450
+University of Antelope Valley,Private,Yes,NULL,NULL,23781,24400,9500,0.6699,23781
+DigiPen Institute of Technology,Private,Yes,0.5387,NULL,35538,80200,20750,0.4286,35538
+Dewey University-Hato Rey,Private,No,NULL,NULL,5085,17400,3681,0.6361,5085
+Strayer University-Tennessee,Private,Yes,NULL,NULL,21929,45900,12667,0.3333,21929
+Strayer University-Pennsylvania,Private,Yes,NULL,NULL,21472,45900,12667,0.2,21472
+American InterContinental University,Private,Yes,NULL,NULL,12156,37300,9500,0.2189,12156
+American InterContinental University-Houston,Private,Yes,NULL,NULL,16835,37300,9500,0.32,16835
+Ave Maria University,Private,No,0.4212,NULL,19129,32800,13683,0.5459,19129
+Argosy University-Los Angeles,Private,Yes,NULL,NULL,22481,41400,15585,0.3077,22481
+Shorter University-College of Adult & Professional Programs,Private,No,0,NULL,19526,43200,16168,0.6111,19526
+Argosy University-Denver,Private,Yes,NULL,NULL,18847,41400,15585,0,18847
+University of South Florida-St Petersburg,Public,No,0.3993,12086,NULL,43500,15500,0.3559,12086
+Arizona State University-Downtown Phoenix,Public,No,0.7721,10936,NULL,47700,14271,0.656,10936
+Strayer University-Florida,Private,Yes,NULL,NULL,23947,45900,12667,0,23947
+American Public University System,Private,Yes,NULL,NULL,10284,62400,9500,0.4134,10284
+South University-Tampa,Private,Yes,NULL,NULL,24766,33400,12667,0.2143,24766
+Strayer University-Alabama,Private,Yes,NULL,NULL,24836,45900,12667,0,24836
+Argosy University-Nashville,Private,Yes,NULL,NULL,18561,41400,15585,0.1111,18561
+Argosy University-San Diego,Private,Yes,NULL,NULL,26627,41400,15585,0.5,26627
+Strayer University-North Carolina,Private,Yes,NULL,NULL,24779,45900,12667,0.25,24779
+Chamberlain University-Illinois,Private,Yes,0.62,NULL,22359,58400,17838,0.5,22359
+Argosy University-Phoenix Online Division,Private,Yes,NULL,NULL,27620,41400,15585,0.0456,27620
+Polytechnic University of Puerto Rico-Orlando,Private,No,NULL,NULL,11560,29800,11000,0.5,11560
+Pacific Rim Christian University,Private,No,0.569,NULL,18129,29500,13250,0.6316,18129
+West Coast University-Orange County,Private,Yes,0.9667,NULL,44573,54900,24464,0.5,44573
+Strayer University-Georgia,Private,Yes,NULL,NULL,24501,45900,12667,0.2857,24501
+Strayer University-South Carolina,Private,Yes,NULL,NULL,15786,45900,12667,0,15786
+Strayer University-Texas,Private,Yes,NULL,NULL,22451,45900,12667,0,22451
+South University-Richmond,Private,Yes,NULL,NULL,25302,33400,12667,0.08,25302
+South University-Virginia Beach,Private,Yes,NULL,NULL,23678,33400,12667,0.16,23678
+Herzing University-Kenosha,Private,No,0.3684,NULL,25531,37800,12695,0.2857,25531
+Herzing University-Brookfield,Private,No,0.9615,NULL,20298,37800,12695,0.4815,20298
+Strayer University-Global Region,Private,Yes,NULL,NULL,23251,45900,12667,0,23251
+Independence University,Private,No,NULL,NULL,28391,28800,9246,0.2607,28391
+South University-Novi,Private,Yes,NULL,NULL,23798,33400,12667,0.2222,23798
+Los Angeles Pacific University,Private,No,NULL,NULL,20263,51100,18970,0.1111,20263
+South University-Savannah Online,Private,Yes,NULL,NULL,23262,33400,12667,0.0297,23262
+Pennsylvania State University-World Campus,Public,No,0.6679,19221,NULL,50100,19500,0.2754,19221
+Warner Pacific University Professional and Graduate Studies,Private,No,NULL,NULL,18633,41000,23000,0.5714,18633
+Augusta University,Public,No,0.7459,16771,NULL,62300,14000,0.2734,16771
+DeVry College of New York,Private,Yes,0.9206,NULL,30304,44100,15760,0.2564,30304
+DeVry University-Arizona,Private,Yes,0.9231,NULL,28460,44100,15760,0.2521,28460
+DeVry University-California,Private,Yes,0.9014,NULL,26467,44100,15760,0.3203,26467
+DeVry University-Colorado,Private,Yes,1,NULL,29795,44100,15760,0.4231,29795
+DeVry University-Florida,Private,Yes,0.8387,NULL,25793,44100,15760,0.3333,25793
+DeVry University-Georgia,Private,Yes,0.8974,NULL,26934,44100,15760,0.2331,26934
+DeVry University-Illinois,Private,Yes,0.9473,NULL,30329,44100,15760,0.2062,30329
+DeVry University-Indiana,Private,Yes,1,NULL,20359,44100,15760,0.2941,20359
+DeVry University-Missouri,Private,Yes,1,NULL,27685,44100,15760,0.2639,27685
+DeVry University-Nevada,Private,Yes,0.75,NULL,31241,44100,15760,0.2143,31241
+DeVry University-New Jersey,Private,Yes,1,NULL,23160,44100,15760,0.38,23160
+DeVry University-North Carolina,Private,Yes,1,NULL,28508,44100,15760,0.1667,28508
+DeVry University-Ohio,Private,Yes,0.9583,NULL,27533,44100,15760,0.2708,27533
+DeVry University-Pennsylvania,Private,Yes,1,NULL,28390,44100,15760,0.1111,28390
+DeVry University-Texas,Private,Yes,0.9333,NULL,31788,44100,15760,0.2277,31788
+DeVry University-Virginia,Private,Yes,0.7,NULL,33227,44100,15760,0.4091,33227
+University of North Georgia,Public,No,0.7807,9854,NULL,41900,9374,0.286,9854
+Arizona State University-Skysong,Public,No,0.6342,11732,NULL,47700,14271,0.1389,11732
+University of Phoenix-Arizona,Private,Yes,NULL,NULL,15023,47100,18500,0.1433,15023
+University of Phoenix-California,Private,Yes,NULL,NULL,15420,47100,18500,0.1838,15420
+University of Phoenix-Colorado,Private,Yes,NULL,NULL,18250,47100,18500,0.1602,18250
+University of Phoenix-Florida,Private,Yes,NULL,NULL,14256,47100,18500,0.1511,14256
+University of Phoenix-Georgia,Private,Yes,NULL,NULL,17196,47100,18500,0.1171,17196
+University of Phoenix-Nevada,Private,Yes,NULL,NULL,14875,47100,18500,0.1506,14875
+University of Phoenix-North Carolina,Private,Yes,NULL,NULL,17526,47100,18500,0.1433,17526
+University of Phoenix-Texas,Private,Yes,NULL,NULL,15565,47100,18500,0.1612,15565
+University of Phoenix-Virginia,Private,Yes,NULL,NULL,15125,47100,18500,0.1265,15125
+University of Phoenix-Pennsylvania,Private,Yes,NULL,NULL,13585,47100,18500,0.1339,13585
+University of North Texas at Dallas,Public,No,0.7397,4513,NULL,45000,10868,0.2632,4513
