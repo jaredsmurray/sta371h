@@ -8,18 +8,6 @@ permalink: /resources/
 
 [Syllabus](../files/syllabus.pdf)
 
-## Final project information
-
-[Final projects](../files/project). Details about the writeup [here](../files/project_details)
-
-## Course packet and other materials
-
-[Data Science: A Gentle Introduction, James G. Scott](../files/dsgi.pdf)
-
-There will be occassional supplemental readings from sources including:
-
-[OpenIntro: Statistics](https://www.openintro.org/stat/textbook.php)
-
 ## R/RStudio resources
 
 There are many, many resources online for working in R. I have collected a few for you here. I will also give you specific software walk-throughs in the weekly posts.
