@@ -1,0 +1,18 @@
+## Case study: False positives in facial recognition
+
+The ethical implications of the use and potential misuse of facial recognition software by governments and law enforcement is a subject of much debate. While much of the discourse focuses on creepy Big Brother wielding powerful artificial intelligence and machine learning to track the citizenry and stifle dissent, there is another reason to be cautious of their blind use: Even if they're really "good" -- have low error rates -- the chance of a false identification when they are used in "dragnet" operations (e.g. automatically matching surveillance video to a database of drivers license photos) may be higher than you'd expect
+
+Let's consider making one comparison of a still image from the surveillance video to a randomly selected driver's license photo. Use $G$ to denote the event that the two are truly the same (the person in the license photo is truly the same as in the surveillance photo, and we'll assume the person in the surveillance video is guilty of some crime). Use $M$ to denote the event that the facial recognition algorithm declares the two a match.
+
+Suppose we have an absolutely killer facial recognition app that never makes a mistake when the two images actually show the same person, so that $P(M\mid G) = 1$ -- no false negatives. Further suppose that when the two images are not of the same person, there is a one in 20,000 chance that the algorithm will say that they match -- so $P(M\mid \sim G) = 1/20,000$ (remember ~ here means "not" or "complement").
+
+Quick note -- try to carry at least 2 significant digits for this problem for all your calculations. If you can avoid any rounding at all until your final calculation, even better.
+
+1. Let's assume that the database contains 4 million people, including the true perpetrator. What is $P(G)$, the prior probability our randomly selected person is the one in the video?
+2.  The algorithm compares the two images and declares them a match. Before you do any calculations, do you think it is more likely than not that this person is truly guilty? (Since the algorithm makes some false matches, you can't know for sure whether the person is guilty). If you feel bold, guess the probability that our randomly selected driver is guilty.
+3. Using the information given above, calculate $P(G\mid M)$. Is it higher or lower than your guess in 2?
+4. False positive rates can actually range as high as $P(M\mid \sim G) = 0.09$ when images are taken off-angle or in poor lighting[^1]. Repeat the calculation above using this error rate. How does the posterior probability change?
+5. At this point you might be wondering why face unlock on your phone ever, well, unlocks, and whether you should turn it off! Prof. Murray leaves his on, even though the error rates for these algorithms aren't much better. In fact, assume for now that we're using the same algorithm, so $P(M\mid \sim G) = 1/20,000$ and $P(M\mid G) = 1$ (where here $G$ is the event that you're the true phone owner, and $M$ is the event that the algorithm declares a match and unlocks your phone). Ignoring some of the [other](https://www.pcmag.com/opinions/facial-recognition-is-techs-biggest-mistake) [issues](https://www.kaspersky.com/blog/face-unlock-insecurity/21618/) with face unlock, can you think of why we would expect larger posterior probabilities of a true match given the algorithm says there is a match in this application, compared to the surveillance "dragnet" application of facial recognition? 
+
+
+[^1]: See [here](https://www.csis.org/blogs/technology-policy-blog/how-accurate-are-facial-recognition-systems-%E2%80%93-and-why-does-it-matter) if you are curious for details.
