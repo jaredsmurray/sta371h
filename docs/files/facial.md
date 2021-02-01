@@ -1,4 +1,4 @@
-## Case study: False positives in facial recognition
+## Case study: False identifications with facial recognition technology
 
 The ethical implications of the use and potential misuse of facial recognition software by governments and law enforcement is a subject of much debate. While much of the discourse focuses on creepy Big Brother wielding powerful artificial intelligence and machine learning to track the citizenry and stifle dissent, there is another reason to be cautious of their blind use: Even if they're really "good" -- have low error rates -- the chance of a false identification when they are used in "dragnet" operations (e.g. automatically matching surveillance video to a database of drivers license photos) may be higher than you'd expect
 
