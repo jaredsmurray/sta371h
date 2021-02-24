@@ -19,7 +19,7 @@ and an ETF tracking the S&P 500 (SPY).
 
 4. How do we interpret the slopes? What information do they give us about the stocks relative to the market?
 
-5. Are any of the stocks are more or less volatile than the market as a whole? If so, assess the strength of evidence for this claim  using the bootstrap.
+5. Based on the fitted model, are any of the stocks are more or less volatile than the market as a whole?
 
 6. Assess the evidence in the data for the following claim: “Even after adjusting for their shared dependence on the broader market, we should expect Wal-Mart’s stock market returns to be most closely related to Target’s returns than with any of the other four firms, because they are both large retailers.” (Hint: Consider the 6 models you fit in Part (A). Each model leads to a set of residuals for one particular stock. Which set of residuals has the largest correlation with the residuals for the model having Wal-Mart as the response variable? Why do you think this is so?)
 
