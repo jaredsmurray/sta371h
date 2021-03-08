@@ -53,7 +53,7 @@ To begin let's compare houses with *any* fireplaces to houses with none. To do t
     
 4. Fit a linear regression model predicting price using our new categorical variable. How do the estimated coefficients relate to the means you computed above?
 
-5. Bootstrap the regression model in part B #4. Draw a histogram of the bootstrap-estimated sampling distribution and compute a 95% confidence interval. Is there strong evidence in the data that houses with one fireplace have higher average prices than houses with no fireplaces?
+5. Bootstrap the regression model in part B #4. Is there strong evidence in the data that houses with one fireplace have higher average prices than houses with no fireplaces? Draw a histogram of the bootstrap-estimated sampling distribution for the relevant coefficient, and compute a 95% confidence interval. 
 
 6. Briefly explain why the model we just fit doesn't tell us directly whether there is evidence for a difference in average prices between houses with one and two or more fireplaces.
 
