@@ -1,3 +1,7 @@
+---
+title: 
+---
+
 # Beauty in the Classroom, Part 2
 
 In part one of this case study we concluded that even after adjusting for different
