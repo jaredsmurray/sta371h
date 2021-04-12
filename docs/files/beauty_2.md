@@ -12,10 +12,10 @@ this effect is different for men and women.
 1. For the moment, ignore the confounding variables you identified in part one. Fit
 a regression model using gender and beauty that allows the effect of the beauty rating
 to vary between men and women.
-2. Based solely on the point estimates from your model in part 1, does appearance have a larger
+2. Based solely on the point estimates from your model above, does appearance have a larger
 association with course evaluations for men or women?
 3. Using the plotModels function from the mosaic package, plot the two regression lines
-for men versus women. Describe how the gap in course evaluations between men 
+for men versus women. Describe how the gap in course evaluations between men and women changes as a function of the beauty score
 4. Using the bootstrap, assess the evidence in the data for different effects of beauty
 for men and women. Provide a relevant 95% confidence interval. (Hint: First identify the 
 coefficient that governs whether the effects differ, and the value it would have to take 
