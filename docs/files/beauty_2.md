@@ -15,7 +15,8 @@ to vary between men and women.
 2. Based solely on the point estimates from your model above, does appearance have a larger
 association with course evaluations for men or women?
 3. Using the plotModels function from the mosaic package, plot the two regression lines
-for men versus women. Describe how the gap in course evaluations between men and women changes as a function of the beauty score
+for men versus women. Describe how the gap in expected course evaluations between men and women changes as a function of the beauty score.
+Hint: for the plotModel function to work correctly by default, you'll want beauty to be the first variable on the right hand side of the tilde.
 4. Using the bootstrap, assess the evidence in the data for different effects of beauty
 for men and women. Provide a relevant 95% confidence interval. (Hint: First identify the 
 coefficient that governs whether the effects differ, and the value it would have to take 
