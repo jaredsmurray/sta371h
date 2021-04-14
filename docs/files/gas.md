@@ -1,6 +1,8 @@
-### Gas prices in Austin
+## Gas prices in Austin   
 
-For this exercise, you'll need this dataset: [GasPrices.csv](http://jaredsmurray.github.io/sta371h/data/GasPrices.csv).  This data set came from a student project in a previous iteration of this class. The students described the project as follows:
+### The data
+
+For this exercise, you'll need to download the [GasPrices.csv](http://jgscott.github.io/teaching/data/GasPrices.csv) data set from the class website.  This data set came from a student project in spring of 2016.  (It was a pretty awesome project.)  I'll let the students who did the project describe things in their own words:
 
 > Have you ever been driving through town looking to make a quick stop to fill up your car with gas and noticed that different gas stations are advertising different gas prices? Have you ever stopped to wonder why this might be the case? Could there be some underlying factors responsible for this noticeable difference in price, specifically for the same, regular unleaded mix of gas on the same day at the same time?
 
@@ -8,8 +10,8 @@ For this exercise, you'll need this dataset: [GasPrices.csv](http://jaredsmurray
 
 
 The variables in the data set are as follows:
-  
-  - ID: Order in which gas stations were visited  
+
+- ID: Order in which gas stations were visited  
 - Name: Name of gas station  
 - Price: Price of regular unleaded gasoline, gathered on Sunday, April 3rd, 2016  
 - Pumps: How many pumps does the gas station have?  
@@ -26,12 +28,26 @@ The variables in the data set are as follows:
 - Address: Physical location of gas station  
 - Income: Median Household Income of the ZIP code where the gas station is located based on 2014 data from the U.S. Census Bureau  
 - Brand: is the gas station branded by one of the major oil companies (ExxonMobil, ChevronTexas, Shell) or not (Other)?   
-  
-  People have a lot of pet theories about what explains the variation in prices between gas stations.  Here are three such theories:  
-a) Gas stations charge more if they lack direct competition in sight, all else being equal.    
-b) Gas stations in richer areas charge more, all else being equal.  
-c) If a gas station doesn't have direct competition within sight, then it will obviously charge more in richer areas.  But if it has direct competition, then the correlation between price and income will disappear.  
 
-1. Build a regression model including an appropriate set of predictors of gas prices and potential confounders of the relationship between gas prices and *both* variables of interest -- the presence of competing gas stations within sight and median household income -- in order to address theories a and b. (Your model should include potential confounders of both the price - competitors and price - income relationships). Quantify the strength of evidence in the data for theories a) and b) using the bootstrap and a 95% confidence interval
+### The questions
 
-2. Add an interaction term to your model to address part c. Quantify the strength of evidence in the data for theory c) using the bootstrap and a 95% confidence interval
+People have a lot of pet theories about what explains the variation in prices between gas stations.  Here are several such theories:  
+A) Gas stations charge more if they lack direct competition in sight, all else being equal.    
+B) Gas stations in richer areas charge more, all else being equal.  
+C) If a gas station doesn't have direct competition within sight, then it will obviously charge more in richer areas.  But if it has direct competition, then the correlation between price and income will disappear.   (All else being equal)
+D) Gas stations from the major brands (Shell, ExxonMobil, ChevronTexaco) charge more, all else being equal.  (See the Brand variable.)  
+E) The market for gas is so competitive that the brand of the gas station is entirely irrelevant for predicting prices once we account for other factors
+F) Gas stations at stoplights can charge more, all else being equal.  
+G) Gas stations with direct highway access can charge more, all else being equal.  
+
+Before you begin, define a new response variable Cents measured in units of cents and Income in units of $10,000 using the following code:
+
+```
+GasPrices$Cents = GasPrices$Price*100
+GasPrices$Income10K = GasPrices$Income/10000
+```
+
+1. Construct a plot for each theory that examines the overall relationships between the relevant variables (i.e., ignoring the "all else equal" part of the theory for now). Do you see evidence supporting these theories? (Hint: For theory C, you will need to construct a plot involving three variables)
+2. Build *one* regression model suitable for assessing all these theories. (Hints: Think carefully about how categorical variables are transformed into factors and then into dummy variables, so that the theory maps onto a regression coefficient or coefficients)
+3. Using your fitted model, assess each theory providing appropriate measures of uncertainty. You may use confidence intervals/the bootstrap and/or hypothesis tests as appropriate (Hint: Remember from your reading how we evaluate the existance of a partial effect for a categorical variable)
+
