@@ -2,7 +2,7 @@
 
 ### The data
 
-For this exercise, you'll need to download the [GasPrices.csv](http://jgscott.github.io/teaching/data/GasPrices.csv) data set from the class website.  This data set came from a student project in spring of 2016.  (It was a pretty awesome project.)  I'll let the students who did the project describe things in their own words:
+For this exercise, you'll need to download the [GasPrices.csv](http://jaredsmurray.github.io/sta371h/data/GasPrices.csv) data set from the class website.  This data set came from a student project in spring of 2016.  (It was a pretty awesome project.)  I'll let the students who did the project describe things in their own words:
 
 > Have you ever been driving through town looking to make a quick stop to fill up your car with gas and noticed that different gas stations are advertising different gas prices? Have you ever stopped to wonder why this might be the case? Could there be some underlying factors responsible for this noticeable difference in price, specifically for the same, regular unleaded mix of gas on the same day at the same time?
 
