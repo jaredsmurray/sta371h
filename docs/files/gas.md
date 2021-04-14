@@ -34,10 +34,10 @@ The variables in the data set are as follows:
 People have a lot of pet theories about what explains the variation in prices between gas stations.  Here are several such theories:  
 A) Gas stations charge more if they lack direct competition in sight, all else being equal.    
 B) Gas stations in richer areas charge more, all else being equal.  
-C) If a gas station doesn't have direct competition within sight, then it will obviously charge more in richer areas.  But if it has direct competition, then the correlation between price and income will disappear.   (All else being equal)
+C) If a gas station doesn't have direct competition within sight, then it will obviously charge more in richer areas.  But if it has direct competition, then the correlation between price and income will disappear. (All else being equal)
 D) Gas stations from the major brands (Shell, ExxonMobil, ChevronTexaco) charge more, all else being equal.  (See the Brand variable.)  
 E) The market for gas is so competitive that the brand of the gas station is entirely irrelevant for predicting prices once we account for other factors
-F) Gas stations at stoplights can charge more, all else being equal.  
+F) Gas stations at stoplights can charge more, all else being equal. 
 G) Gas stations with direct highway access can charge more, all else being equal.  
 
 Before you begin, define a new response variable Cents measured in units of cents and Income in units of $10,000 using the following code:
