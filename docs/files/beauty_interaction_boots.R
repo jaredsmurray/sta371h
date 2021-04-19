@@ -20,6 +20,7 @@ boot_fit = do(1000) * {
 # What's the effect of an additional beauty "point" for men, all else constant?
 hist(boot_fit$beauty + boot_fit$beauty.gendermale, xlim=c(-0.1, 0.45))
 confint(boot_fit$beauty + boot_fit$beauty.gendermale)
+mean(boot_fit$beauty + boot_fit$beauty.gendermale)
 
 # What's the effect of an additional beauty "point" for women, all else constant?
 hist(boot_fit$beauty, xlim=c(-0.1, 0.45))
@@ -34,13 +35,13 @@ hist(boot_fit$gendermale, xlim=gaplim, "Gap at beaty=0")
 confint(boot_fit$gendermale)
 
 # What's the gap for instructures with a beauty score of 0.5, all else constant?
-hist(boot_fit$gendermale + boot_fit$beauty.gendermale*0.5, xlim=gaplim, "Gap at beaty=0.5")
+hist(boot_fit$gendermale + boot_fit$beauty.gendermale*0.5, xlim=gaplim, main="Gap at beauty=0.5")
 confint(boot_fit$gendermale + boot_fit$beauty.gendermale*0.5)
 
 # What's the gap for instructures with a beauty score of -0.5, all else constant?
-hist(boot_fit$gendermale + boot_fit$beauty.gendermale*(-0.5), xlim=gaplim, "Gap at beaty=-0.5")
+hist(boot_fit$gendermale + boot_fit$beauty.gendermale*(-0.5), xlim=gaplim, main="Gap at beauty=-0.5")
 confint(boot_fit$gendermale + boot_fit$beauty.gendermale*(-0.5))
 
 # What's the gap for instructures with a beauty score of -1, all else constant?
-hist(boot_fit$gendermale + boot_fit$beauty.gendermale*(-1), xlim=gaplim, "Gap at beaty=-1")
+hist(boot_fit$gendermale + boot_fit$beauty.gendermale*(-1), xlim=gaplim, main="Gap at beauty=-1")
 confint(boot_fit$gendermale + boot_fit$beauty.gendermale*(-1))
