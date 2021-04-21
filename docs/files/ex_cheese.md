@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Cheese sales and promotional displays: Modeling demand
+title: The effects of promotional displays on cheese sales
 ---
 
 This case study considers data on sales volume, price, and advertisting
 display activity for packages of Borden sliced cheese, available as
-“cheese.csv” [here](https://jgscott.github.io/STA371H_Spring2018/data/cheese.csv). 
+“cheese.csv” [here](https://jaredsmurray.github.io/sta371h/data/cheese.csv). 
 For each of 88 stores (store) in different
 US cities, we have repeated observations of the weekly sales volume
 (vol, in terms of packages sold), unit price (price), and whether the
@@ -13,19 +13,19 @@ product was advertised with an in-store display during that week (disp
 = 1 for display). Altogether there are 5,555 observations in the data set.
 We want to understand whether the displays are effective at increasing demand,
 
+1. To start, examine the visual evidence for the effect in two different stores using the following code:
+```
+boxplot(vol ~ disp, data=subset(cheese, store == "HOUSTON - KROGER CO"))
+boxplot(vol ~ disp, data=subset(cheese, store == "ORLANDO,FL - FOOD LION"))
+```
+Based on these plots, do you think an *additive* effect makes sense here? (That is, does running the display seem to increase the predicted
+sales by adding some fixed amount?) If not, what type of effect seems to make more sense? Can you think of why this might be the case?
 
-1. Ignoring price, do the in-store displays appear to have an effect on
-sales volume? Conduct an appropriate hypothesis test.
+2. Ignoring price and store for now, do the in-store displays appear to have an effect on
+sales volume? Using an appropriate simple linear regression model, provide an estimate, confidence interval, and an appropriate hypothesis test.
 
 2. Different stores have different overall sales volumes, and different preferences for running display ads, making store an important potential confounder of the effect of display ads. Using a regression model, estimate the expected *percentage change* in sales volume
 when a display is present, controlling for the store, and provide a 95\% confidence interval. 
-Note: I’m asking for a percentage
-(multiplicative) change due to the display, rather than an
-absolute (additive) change. Think carefully about why we should
-expect the change to be multiplicative, and about what kind of
-transformation would be appropriate for answering this question
-with a single number. (Hint: if $log(y_1)=a$ and $log(y_2) = a + b$,
-then what is the ratio $y_2/y_1$, expressed in terms of $a$ and $b$?)
 
 3. You suspect that this relationship is further confounded by pricing strategies (for example, some stores may have be aggressive in general, 
 leading them to both set lower prices and run displays). Propose a model that allows you to adjust for both price and store differences in assessing the effect of in-store displays on sales volume.
